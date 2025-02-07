@@ -1,0 +1,159 @@
+Honor Build - Druid - Circle of the Land
+
+### Introduction 
+
+Author: Majin Evelyn
+
+<160 char blurb: Wild Shape and cast devastating spells to control the battlefield as a Circle of the Land Druid in Baldur’s Gate 3’s Honor Mode!
+
+The Circle of the Land Druid, like the Wizard, offers some powerful control spells, on top of its own unique tools. Baldur’s Gate 3 has a unique take on the Wild Shape feature, giving the Druid access to some very powerful control tools from the Spider form’s *web* and damage from the Owlbear form. Through Circle Spells, the Druid can even acquire spells such as *call lightning* and *lightning bolt* to use in combination with the [wet condition](https://bg3.wiki/wiki/Wet_(Condition)). This article will build towards and focus on the Druid’s exceptional control effects, whether it be through spells or Wild Shape forms, but there are many directions this manner of build can take.
+
+### Races/Origins 
+
+There are various choices for your race/origin that fit in nicely for this build. Drow and Wood elf races can optionally be combined with The Dark Urge Origin, or you can choose Gale as your Origin character for the below unique benefits. Halsin has some powerful options for a Druid, but only becomes available as a companion partway through the game.
+
+**Halsin** - Though he is only available as a companion partway through Act 2, Halsin is essentially an upgraded Wood Elf for a Druid build. He has a unique bear Wild Shape form and auto-prepares *healing word*, *thunderwave*, *misty step*, and *call lightning* without counting against your normal number of Druid spells prepared.
+**Drow** - Gaining hand crossbow proficiency, superior darkvision, perception proficiency and one free cast of darkness per day is very valuable for this build.  
+**Wood Elf** - Extra movement speed is always nice, and having both Stealth and Perception proficiency is valuable for any build.
+**Gale (Avatar only)** - If you choose Gale at character creation (not as a later recruited companion), in Act 2 he can acquire a [permanent buff that grants an extra 3rd level spell slot](https://bg3.wiki/wiki/Consumed_Shadow_Weave). In the same Act, he can also acquire a [buff that grants advantage on Concentration checks](https://bg3.wiki/wiki/Mystra%27s_Benevolence_(Condition)) until the next long rest.
+
+### Ability Scores 
+
+12 Str, 14 Dex, 14+2 Con, 8 Int, 15+1 Wis, 8 Cha
+Wisdom and Constitution are the most important ability scores for this build, and 14 Dex provides the minimum score required for AC with Medium Armor. However, if your Druid is a Drow, you can swap your Dex and Con scores to give your hand crossbows slightly higher performance in Act 1.
+
+### Skills 
+
+Skill proficiencies come from your Background, Class, and Race choices. It’s ultimately unimportant to plan for skill proficiencies in Honor Mode, especially if the character in question isn’t your Avatar (the one directly controlled and made by the player, who will usually be active in conversations and making ability checks). Since the Druid won't be investing in any Charisma, this build doesn't have high priority for being your Avatar character, and therefore your skill choices are even less important. Origin characters will have their Background choices locked, but if you’re making a custom character, you have some freedom. By starting with Druid you can choose Perception and Survival proficiency, which are two of the most relevant skill checks for characters not participating in dialogue. If you’re playing your Druid as an Elf or Halsin (also an Elf) which already have these proficiencies by default, you can consider Animal Handling or Nature for your Druid skill proficiencies. 
+
+### Level Progression
+
+Down below you can find a level progression that can be followed in your Baldur’s Gate 3 playthrough. You may opt to respec less often or even more often to maximize your spell progression, though that is not necessary for this build to be very strong.
+
+Druid’s Wild Shape feature functions quite differently in Baldur’s Gate 3 than it does in D&D 5E, with the Druid choosing from a predetermined list (that grows as you level) of beasts to transform into. There are two major beast forms to note, the Spider and the Owlbear. The Spider Wild Shape, available at Level 2, has access to an at-will version of the spell *web* as a bonus action, which is exceptionally strong as you can have several webs active on the field at a time. The spider form can only cast the *web* spell in combat, but in combination with a ranged party making use of the difficult terrain, as well as forced movement effects like Repelling Blast from a friendly Warlock, this can be very oppressive and effective in early combats. Later at level 6, the Druid gets access to the Owlbear form. The Owlbear has the Crushing Leap ability, which allows you to jump onto a target as a bonus action. It does more damage the higher you are compared to your target and the heavier you are (you can increase your weight with *enlarge/reduce*, for example). 
+
+As both of these forms have bonus action abilities, it is actually better to *not* be a Circle of the Moon Druid to maximize these forms, since that subclass makes Wild Shaping a bonus action. Circle of the Land Druid also grants access to a number of very useful spells, such as *darkness* early on. The combination of access to *darkness* and Wild Shape Spider’s at-will *web* makes Druid exceptionally powerful in Act 1, carrying a wide variety of parties to victory through many of its combats.
+
+We take a one level dip early in Light Domain Cleric, giving us some powerful defensive options in Warding Flare, as well as first level Cleric spells like *bless* and *sanctuary*. Later we switch this to Storm Sorcery Sorcerer for Constitution saving throw proficiency and bonus action flight, as well as the *shield* spell, replacing Warding Flare as our defensive reaction.
+
+**Level 1: Druid**  
+**Level 2: Druid (Druid 2)**  
+**Subclass –** Circle of the Land 
+**Level 3: Cleric (Druid 2/Cleric 1)**  
+**Subclass –** Light Domain  
+**Level 4: Druid (Druid 3/Cleric 1)**  
+**Circle Spells –** Swamp (*darkness*, *Melf’s acid arrow*)  
+**Level 5: Druid (Druid 4/Cleric 1)**  
+**Feat –** War Caster   
+**Level 6: Sorcerer (Respec) (Sorcerer 1/Druid 5)**  
+**Circle Spells –** Mountain (*lightning bolt*, *grant flight*)  
+**Level 7: Druid (Sorcerer 1/Druid 6)**  
+**Level 8: Druid (Sorcerer 1/Druid 7)**   
+**Circle Spells –** Arctic (*conjure minor elemental*, *ice storm*)  
+**Level 9: Druid (Sorcerer 1/Druid 8)**   
+**Feat –** Alert  
+**Level 10: Druid (Sorcerer 1/Druid 9)**   
+**Level 11: Druid (Sorcerer 1/Druid 10)**  
+**Circle Spells –** Coast (*conjure elemental*, *greater restoration*)  
+**Level 12: Druid (Sorcerer 1/Druid 11)**  
+
+
+### Key Spells 
+Druid is a prepared spellcaster, which in Baldur’s Gate 3 means you can swap out spells at any time when you're not in combat. This applies to your Cleric spells, but doesn't apply to your Sorcerer spells (*enhance leap* and *shield*).
+
+Cantrips: *produce flame*, *sacred flame*, *thorn whip*
+1\. *bless*, *command*, *create water*, *enhance leap*, *longstrider*, *sanctuary*, *shield*  
+2\. *darkness*  
+3\. *call lightning*, *lightning bolt*, *sleet storm*  
+4\. *conjure woodland being*
+5\. *conjure elemental* (upcast to 6th for myrmidons), *planar binding*  
+6\. *heroes’ feast*
+
+### Items
+
+You always want to wear the best available medium armor and shield you can get your hands on. Early on, this will be [Githyanki Half-Plate](https://bg3.wiki/wiki/Githyanki_Half_Plate) and a [mundane shield](https://bg3.wiki/wiki/Shields).
+
+Druid isn’t terribly dependent on or enabled by items, as all of their features function quite well without any. However, if you are using the Druid to cast *sleet storm* for the party in combination with *hunger of hadar*, it would benefit you to equip some [items that increase your spell save DC](https://bg3.wiki/wiki/List_of_Equipment_that_Affect_Spell_DC) in a similar manner that [our Wizard](https://tabletopbuilds.com/bg3-honor-build-the-wizard/) would.
+
+The most impactful items (which will often optimally be equipped for the rest of the game once you acquire them) will be <ins>underlined</ins>.
+#### Helmets
+**[The Shadespell Circlet](https://bg3.wiki/wiki/The_Shadespell_Circlet) (Act 1) –** +1 to Spell Save DC when obscured in shadow.  
+**[Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm) (Act 2) –** +1 to Spell Save DC and Initiative.  
+**[Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave) (Act 3) –** +2 to Spell Save DC and Spell Attack Rolls.  
+**[Helm of Balduran](https://bg3.wiki/wiki/Helm_of_Balduran) (Act 3) –** This is obtained quite late in the game, and provides some very nice personal survivability with regeneration (2 hit points at the start of your turn), as well as +1 to Armor Class and Saving Throws. If you don't have any melee martials in your party, this is a solid item for you to equip.
+#### Amulets
+**[Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step) (Act 1)**  
+**[<ins>Amulet of the Harpers</ins>](https://bg3.wiki/wiki/Amulet_of_the_Harpers) (Act 2) –** Advantage on Wisdom saves are good in general, and a free cast of *shield* is also quite nice.
+**[<ins>Amulet of the Devout</ins>](https://bg3.wiki/wiki/Amulet_of_the_Devout) (Act 3) –** +2 to Spell Save DC.
+#### Armor
+**[Dark Justiciar Half-Plate](https://bg3.wiki/wiki/Dark_Justiciar_Half-Plate_(Rare)) (Act 2) –** This medium armor provides the effect of the War Caster feat to help maintain your concentration, letting you take a different feat at level 5, such as Resilient: Constitution or +2 Wisdom.  
+**[Helldusk Armor](https://bg3.wiki/wiki/Helldusk_Armour) (Act 3) –** This armor doesn’t have any unique synergies, but the increase in Armor Class is quite valuable, being the highest Armor Class item in this slot.
+#### Handwear
+**[<ins>Gauntlet of the Tyrant</ins>](https://bg3.wiki/wiki/Gauntlet_of_the_Tyrant) (Act 3) –** +1 to Spell Save DC, 3rd level *command* 1/Long Rest.  
+**[Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves) (Act 3) –** +1 to Spell Save DC and Spell Attack Rolls, 1/Short Rest [*rays of fire*](https://bg3.wiki/wiki/Rays_of_Fire_(Cantrip)) cantrip.
+
+#### Footwear
+**[Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers) (Act 1) –** Very useful for mobility, provides a lot of generically useful benefits.  
+**[<ins>Evasive Shoes</ins>](https://bg3.wiki/wiki/Evasive_Shoes) (Act 2) –** +1 to Armor Class
+**[<ins>Boots of Stormy Clamour</ins>](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour) (Act 1) –** Your *sleet storm* and any other control spells will inflict [Reverberation](https://bg3.wiki/wiki/Reverberation_(Condition)), hopefully leading to prone. 
+#### Rings
+**[Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring) (Act 1) –** Adds 10 feet to your movement speed, which stacks with *longstrider* and further enhances your mobility when used with *enhance leap*.  
+**[<ins>Ring of Protection</ins>](https://bg3.wiki/wiki/Ring_of_Protection) (Act 1) –** +1 to Armor Class and saving throws.  
+
+#### Cloak
+**[<ins>Cloak of Protection</ins>](https://bg3.wiki/wiki/Cloak_of_Protection) (Act 2) –** +1 to Armor Class and saving throws.  
+**[Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement) (Act 3) –** You already get Warding Flare which gives attacks disadvantage to hit you when it matters, so this likely isn't better than **[Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)**, but it is still very good.
+**[Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave) (Act 3) –** +1 to Spell Save DC and Spell Attack Rolls, and [*absorb elements*](https://bg3.wiki/wiki/Absorb_Elements) once per short rest.
+
+#### Ranged Weapons
+
+**[<ins>Bow of Awareness</ins>](https://bg3.wiki/wiki/Bow_of_Awareness) (Act 1) –** Just here for the +1 bonus to Initiative, not to attack with.  
+**[Hand Crossbow](https://bg3.wiki/wiki/Hand_Crossbow) (Act 1) –** Available very early, this and the below Hand Crossbows will provide you with a bonus action attack when dual wielded with another hand crossbow, without the need to attack with the main hand. Especially useful if your character is a Drow, as they have innate hand crossbow proficiency. While this attack doesn’t do a lot of damage, it can also be used to hit objects such as barrels and potions next to allies, essentially turning the option to throw a potion from an action into a bonus action (as placing items onto the ground costs no actions).  
+**[Hand Crossbow +1](https://bg3.wiki/wiki/Hand_Crossbow_%2B1) (Act 1)**  
+**[Hellfire Hand Crossbow](https://bg3.wiki/wiki/Hellfire_Hand_Crossbow) (Act 2)**  
+**[Hand Crossbow +2](https://bg3.wiki/wiki/Hand_Crossbow_%2B2) (Act 3)**  
+**[Hellrider Longbow](https://bg3.wiki/wiki/Hellrider_Longbow) (Act 3) –** Upgrades the Bow of Awareness’ +1 bonus to Initiative to a +3.
+
+#### Melee Weapons
+
+**[<ins>Defender Flail</ins>](https://bg3.wiki/wiki/Defender_Flail) (Act 1) –** +1 Armour Class.  
+**[Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve) (Act 1) –** Once per short rest, this sword lets you activate a helpful (*bless*-like effect) or harmful aura. The helpful aura stacks with the *bless* spell for even more attack and saving throw bonus, making it very powerful for someone to have in the party. Late game, the bane aura can also add more damage to another party member’s *magic missile* nova options. As we mentioned in our Wizard build, it would be better for someone other than the Wizard to activate Phalar Aluve’s bane effect, and the Druid is a decent candidate for that.  
+**[Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff_of_Arcane_Blessing) (Act 1) –** Makes your *bless* boost the to-hit for your and your party members’ cantrips even further than normal. The description is a bit deceptive, but the extra 1d4 only applies to spell attacks for a total of 2d4.  
+**[Story Spoiler Name](https://bg3.wiki/wiki/Orphic_Hammer) (Act 3) –** Provides advantage on saving throws against spells, which in certain fights can be quite useful.
+
+#### Shields
+**[Adamantine Shield](https://bg3.wiki/wiki/Adamantine_Shield) (Act 1) –** Same AC bonus as a normal shield, but this gives enemies that miss you a further -1 attack penalty. 
+**[Shield +1](https://bg3.wiki/wiki/Studded_Shield_%2B1) (Act 2) –** The highest AC you'll get out of this slot.  
+**[Story Spoiler Name](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) (Act 3) –** Gives the same AC bonus as a Shield +1, but also provides advantage on saving throws against spells, along with a variety of other smaller bonuses.
+
+#### Consumables
+**[Elixir of Heroism](https://bg3.wiki/wiki/Elixir_of_Heroism) (Act 1-3) –** This elixir is generically useful, in that it provides the effects of the *bless* spell to you for the entire long rest. 
+**[Elixir of Peerless Focus](https://bg3.wiki/wiki/Elixir_of_Peerless_Focus) (Act 1-3) –** Provides advantage on concentration saving throws, in addition to some other minor effects. This essentially replaces the War Caster feat at the cost of your Elixir for the day.
+**[Elixir of Vigilance](https://bg3.wiki/wiki/Elixir_of_Vigilance)  (Act 1-3) –** Similar to the previous elixir, this is basically the Alert feat in Elixir form. You can choose one or the other, depending on which feat you don't have at your particular point in progression.  
+**[Potion of Speed](https://bg3.wiki/wiki/Potion_of_Speed) (Act 1-3) –** Drink as a bonus action to grant all the good benefits from *haste* for 3 turns, but without the need for concentration. Many encounters can be ended within this time frame. Can be purchased and found frequently from very early on in the game.
+
+ 
+
+### Strategy
+
+Starting at level 2, you get access to an extremely powerful and unique option: Wild Shaping into a Spider. This form has access to at-will, concentration free *web* as a bonus action. You can use this form twice per short rest, which could last more than one combat if you stay at range and keep your handful of extra hit points from depleting. The power of at-will web is incredibly high in a ranged party, especially with access to Repelling Blast. Melee enemies can easily be kept away in nearly every encounter, and even ranged enemies will dash through the webs and waste turns if they are out of range or line of sight of your party. As with all of your Wild Shape forms, you can continue concentrating on spells while in the respective forms, so long as you cast the spell before shifting into the Wild Shape form. This means you can be providing *bless* as well as *webs* all over the battlefield right from level 3.
+
+https://imgur.com/a/jWr9Dhd
+
+You also get access to some other exceptionally good spells when you're not wild shaped. First level Cleric spells are excellent for the whole game. *Darkness* provides mobile cover for the party from level 4. If your Druid is a Drow, you’ll even get a free cast of *darkness* once per long rest starting at level 5. Many combats can be solved by hiding your entire group inside of the spell, only coming out to shoot at enemies on your turn.
+
+https://imgur.com/a/i7kXLUo
+
+*Sleet storm* is as always an exceptionally powerful control effect, just as it is for our Wizard, and becomes available at level 6. If your Druid is the main caster in the party casting *sleet storm,* it’s a good idea to give any [Spell Save DC increasing items](https://bg3.wiki/wiki/List_of_Equipment_that_Affect_Spell_DC) to them to increase this spell’s effectiveness. In combination with a Warlock’s *hunger of hadar*, this combines to make up a critical piece of control that can carry your party through much of the remainder of the game.
+
+https://imgur.com/a/KTHK8DG
+
+Level 7 nets us a new animal form that we will sometimes want to use, the Owlbear form. Much like the Spider form, the Owlbear form’s most important ability, Crushing Flight, is a bonus action. This means that it is once again a benefit that shifting into Wild Shape is an action instead of a bonus action, allowing us to, in one turn, shift into an Owlbear and immediately jump with Crushing Flight. This form has a lot more health than the Spider form, and deals much more direct damage through Crushing Flight and Rupture, which may better suit some combats. Keep in mind that Crushing Flight’s damage scales with your height above the target, as well as your weight, which can be increased with the spell *enlarge/reduce* provided by a friendly Wizard, Sorcerer, or Duergar. [Some bosses](https://bg3.wiki/wiki/Grym) have very tall arenas that can be used to deal massive damage with Crushing Flight.
+
+https://imgur.com/a/R1dOO8r
+
+*Conjure woodland being* is a concentration-free spell that summons a dryad who can also summon its own Wood Woad, and can cast *spike growth* at-will,though it still requires the dryad’s concentration. This powerful summon can be used in combination with other powerful effects such as the above mentioned *sleet storm*. The dryad itself can certainly be killed quickly if you don’t position her carefully, so try and keep her safely away from danger, only using her actions to cast its signature *spike growth*. Her Strengthened Shillelagh can do quite a bit of damage, but puts the dryad into a potentially dangerous position.
+
+https://imgur.com/a/56QK63V
+
+As you progress in level and into Act 3, you will mostly be using all of the above tools, with the small additions of *conjure elemental* (upcasted to 6th level for myrmidons), *planar binding*, and *heroes’ feast*. Myrmidons are an efficient use of your 6th level spell slots, as they are concentration-free summons that have some solid effects, especially the water myrmidon. If you don’t want to manage more summons or need its unique benefits against frightened, *heroes’ feast* is another very solid use of your 6th level spell slots. Against the appropriate targets, *planar binding* can make some fights a lot easier, should your target fail its saving throw. This won’t be as useful if your particular druid is not using [spell save DC increasing items](https://bg3.wiki/wiki/List_of_Equipment_that_Affect_Spell_DC), as the spell won’t have any impact if the target succeeds, while your other control spells are not so dependent on a single saving throw. 
