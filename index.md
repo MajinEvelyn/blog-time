@@ -6,6 +6,8 @@ nav_order: 1
 
 TTRPG tactics and character build focused blog by Majin Evelyn :3 
 Former Tabletop Builds author, some of my articles will likely end up being mirrored here
+---
+
 discord: majinevelyn
 
 ----
