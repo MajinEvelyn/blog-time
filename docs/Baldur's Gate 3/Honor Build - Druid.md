@@ -1,5 +1,6 @@
 ---
 title: Druid
+parent: Baldur's Gate 3
 layout: default
 nav_order: 2
 ---
