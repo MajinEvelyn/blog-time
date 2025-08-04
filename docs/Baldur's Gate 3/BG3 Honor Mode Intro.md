@@ -1,5 +1,5 @@
 ---
-title: druid
+title: Baldur's Gate 3
 layout: default
 nav_order: 2
 ---
