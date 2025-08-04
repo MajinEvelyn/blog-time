@@ -1,3 +1,10 @@
+---
+title: monk
+layout: default
+nav_order: 1
+---
+
+
 BG3 Honor Build: The Way of the Open Hand Monk
 
 ### Introduction
