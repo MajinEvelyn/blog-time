@@ -1,5 +1,5 @@
 ---
-title: cleric
+title: Cleric
 layout: default
 nav_order: 3
 ---
