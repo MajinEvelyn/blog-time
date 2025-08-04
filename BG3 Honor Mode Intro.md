@@ -1,3 +1,10 @@
+---
+title: druid
+layout: default
+nav_order: 2
+---
+
+
 We are back with a new series of character builds here at Tabletop Builds. For our **Baldur's Gate 3 Honor Mode Build Series**, we are publishing a collection of eight very powerful builds that will perform excellently in the highest difficulty, Honor Mode. 
 ## Honor Mode Build Series
 
