@@ -1,3 +1,9 @@
+---
+title: cleric
+layout: default
+nav_order: 3
+---
+
 Honor Build - Cleric - Light Domain
 
 ### Introduction
