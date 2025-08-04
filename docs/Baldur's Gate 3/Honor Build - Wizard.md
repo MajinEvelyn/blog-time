@@ -1,3 +1,10 @@
+---
+title: Wizard
+parent: Baldur's Gate 3
+layout: default
+nav_order: 5
+---
+
 BG3 Honor Build: The Wizard
 
 ### Introduction
