@@ -1,5 +1,5 @@
 ---
-title: druid
+title: Druid
 layout: default
 nav_order: 2
 ---
