@@ -1,3 +1,11 @@
+---
+title: Warlock
+parent: Baldur's Gate 3
+nav_order: 4
+
+---
+
+
 ## Honor Build: Warlock: The Fiend
 <160 char blurb: This Fiendish Warlock uses a powerful combination of damage, control, and sturdiness, to solve the challenges Honor Mode in Baldur’s Gate 3 presents!
 
