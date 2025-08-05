@@ -1,0 +1,436 @@
+
+// add some extra label classes
+.label-grey {
+  background-color: $grey-dk-000;
+  color: $grey-dk-200;
+}
+.label-pink {
+  background-color: #f9f;
+}
+.label-white {
+  background-color: $grey-lt-000;
+  color: $grey-dk-200;
+}
+
+// make the link to Docs theme page invisible (no other way to remove it)
+.site-footer {
+  visibility: hidden;
+}
+
+// make no border for the icon at the top of nav
+.site-header {
+  border: none;
+}
+
+// defines highlight class for use in <b> or <i> tags
+.hlblue {
+  color: #ccf;
+}
+.hlyellow {
+  color: #ffc;
+}
+.hlgreen {
+  color: #afc;
+}
+
+//
+body {
+  background: $body-background-color;
+}
+
+// links and nav bar V shape
+a {
+  color: #e3cc83;
+}
+.nav-list .nav-list-item .nav-list-expander {
+  color: #785ab9;
+}
+
+// add background image to the top of the page
+#top {
+  // background: rgba(60, 60, 70, 0.9);
+  max-width: 100%;
+  background-image: url("/img/header.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+// make it so the text doesn't fill the entire right side
+#main-content {
+  max-width: max(800px, 80%);
+}
+// make the search bar section transparent
+#main-header {
+  background: transparent;
+}
+// make the search bar input box transparent
+#main-header > .search {
+  background: transparent;
+}
+#main-header > .search > .search-input-wrap {
+  background: transparent;
+}
+// ---------------------------------
+// make the search bar transparent when there's nothing in it and give it a box shadow
+#search-input:empty {
+  // background: rgba(100, 100, 100, 0.7);
+  background: transparentize($search-background-color, 0.7);
+  border-radius: 0px 0px 40px 0px;
+  box-shadow: 4px 4px 5px rgba(40,40,40,0.5);
+  transition: all 0.5s ease-in-out;
+}
+// when you click on it, the search bar becomes solid and square
+#search-input:focus {
+  background: $search-background-color;
+  border-radius: 0px 0px 0px 0px;
+  transition: all 0.5s ease-in-out;
+}
+// this is just so the search-input box shadow shows and doesn't get cut off by its container
+.main-header * {
+  overflow: visible;
+}
+// the buttons on the top left, make them a bit transparent and have rounded corners
+.aux-nav-list > .aux-nav-list-item > .site-button {
+  // background-color: rgba(10, 10, 11, 0.2);
+  background-color: transparentize($base-button-color, 0.2);
+  border-radius: 10px;
+  margin-left: 20px;
+  height: 40px;
+  margin-top: 10px;
+}
+// set the text color of those buttons
+.aux-nav-list > .aux-nav-list-item > .site-button {
+  color: #7ae;
+}
+
+// sets up iframe
+iframe[title="YouTube video player"] {
+  width:100%;
+  aspect-ratio:16/9;
+  max-width:560px;
+  height:auto;
+}
+// this is for the youtube thumbnails, to highlight them when we mouseover
+.imghover {
+  filter: brightness(100%);
+  transition: all 0.2s ease;
+}
+.imghover:hover {
+  filter: brightness(40%);
+}
+.imgcenter {
+  font-size: 20px;
+  color: #eee;
+  background: #333;
+  padding: 2px 8px 2px 8px;
+  border-radius: 8px;
+  opacity: 0.8;
+}
+.yt-thumb {
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 100%;
+  aspect-ratio: 4/3;
+  max-width:480px;
+  cursor:pointer;
+}
+.yt-thumb > p{
+  position: fixed;
+  margin-left: 5px;
+}
+.yt-thumb > div{
+  position: absolute;
+  margin-top: 160px;
+  margin-left: 140px;
+  width: 200px;
+  text-align: center;
+}
+.yt-thumb{
+  display: block;
+  height: 360px;
+}
+// ---------------------------------
+
+hr {
+  background-color: #5b5b68;
+}
+.main-content hr + * {
+  margin-top: 0 !important
+}
+
+h2, .text-beta {
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #5b5b68;
+}
+
+h3, .text-gamma {
+  font-size:18px !important
+}
+@media (min-width: 31.25rem) {
+  h3, .text-gamma {
+    font-size:20px !important;
+  }
+}
+
+h2 + h3 {
+  margin-top: 1em !important;
+}
+
+//.text-delta,
+h4 {
+  font-size:16px !important;
+  font-weight:600;
+  text-transform:none;
+  letter-spacing:inherit;
+  display:inline-block !important;
+}
+@media (min-width: 31.25rem) {
+  //.text-delta,
+  h4 {
+    font-size:18px !important
+  }
+}
+
+h5, .text-epsilon {
+  font-size:12px !important;
+  color:#f5f6fa;
+}
+@media (min-width: 31.25rem) {
+  h5, .text-epsilon {
+    font-size:14px !important
+  }
+}
+
+.main-content h1+p,
+.main-content h2+p,
+.main-content h3+p,
+.main-content h4+p,
+.main-content h5+p,
+.main-content h6+p {
+  margin-top:0.8em;
+}
+
+.label {
+  margin-right: 0;
+  vertical-align: text-bottom;
+}
+
+
+details {
+  background: #33333e50;
+  border-radius: 10px;
+  margin: 0 -20px;
+  padding: 6px 20px;
+}
+summary > * {
+  margin: 0 8px;
+  padding: 0px;
+  text-decoration-line: underline;
+}
+
+
+// rules for when p is wrapped with <summary>
+
+summary > p {
+  display: inline-block;
+  width: 100%;
+  // margin-top: 1.5em !important;
+}
+
+details > summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none
+}
+summary > p::after {
+  content: ' ►';
+  font-size:8px;
+  margin-left:3px;
+  vertical-align: middle;
+  display:inline-block;
+}
+details[open] summary > p::after {
+  content: " ▼";
+}
+@media (min-width: 50rem) {
+  summary > p::after {
+    display:none;
+  }
+  summary > p::before {
+    content: ' ►';
+    margin-left:-20px;
+    font-size:10px;
+    width:14px;
+    vertical-align: middle;
+    display:inline-block;
+  }
+  details[open] summary > p::before {
+    content: " ▼";
+  }
+}
+
+// rules for when h2 is wrapped with <summary>
+
+summary > h2 {
+  display: inline-block;
+  width: 100%;
+  margin-top: 1.5em !important;
+}
+
+details > summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none
+}
+summary > h2::after {
+  content: ' ►';
+  font-size:8px;
+  margin-left:3px;
+  vertical-align: middle;
+  display:inline-block;
+}
+details[open] summary > h2::after {
+  content: " ▼";
+}
+@media (min-width: 50rem) {
+  summary > h2::after {
+    display:none;
+  }
+  summary > h2::before {
+    content: ' ►';
+    margin-left:-20px;
+    font-size:10px;
+    width:14px;
+    vertical-align: middle;
+    display:inline-block;
+  }
+  details[open] summary > h2::before {
+    content: " ▼";
+  }
+}
+
+// move anchor link to end when a h2 heading is wrapped with <summary>
+
+@media (min-width: 50rem) {
+  .main-content summary > h2 > .anchor-heading {
+    left: auto;
+    right: 0rem;
+  }
+}
+
+// rules for h3 wrapped in <summary>
+
+summary > h3 {
+ display:inline-block;
+ width:100%;
+ margin-top:1.5em !important;
+}
+
+details > summary {
+ list-style:none;
+}
+summary::-webkit-details-marker {
+ display:none;
+}
+summary > h3::after {
+ content:' ►';
+ font-size:6px;
+ margin-left:3px;
+ vertical-align:middle;
+ display:inline-block;
+}
+details[open] summary > h3::after {
+ content:" ▼";
+}
+@media (min-width: 50rem) {
+ summary > h3::after {
+  display:none;
+ }
+ summary > h3::before {
+  content:' ►';
+  margin-left:-20px;
+  font-size:8px;
+  width:14px;
+  vertical-align:middle;
+  display:inline-block;
+ }
+ details[open] summary > h3::before {
+  content:" ▼";
+ }
+}
+
+// move anchor link for summary > h3
+
+@media (min-width: 50rem) {
+ .main-content summary> h3 >.anchor-heading {
+  left:auto;
+  right:0rem
+ }
+}
+
+// add summary arrow for toc
+
+summary.text-delta::after {
+  content:' ►';
+  font-size:7px;
+  margin-left:3px;
+  vertical-align:middle;
+  display:inline-block
+}
+details[open] summary.text-delta::after {
+  content:" ▼"
+}
+
+// figure related
+
+figure {
+  margin: 1em auto;
+  width: fit-content;
+  // background-color: #bbbbbb22;
+  // padding: 5px;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+figure > img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #777;
+}
+
+@media (max-width: 31.25rem) {
+  figure {
+    max-width: 100% !important;
+  }
+}
+@media (min-width: 31.25rem) {
+  figure.float-right {
+    margin: 1em;
+    margin-right: 0em;
+  }
+
+  figure.float-left {
+    margin: 1em;
+    margin-left: 0em;
+  }
+}
+
+code {
+  white-space: pre-wrap;
+}
+
+.spaced_list > li {
+  margin: 1em 0;
+  background-color:#3e3e4e;
+  border-radius: 20px;
+  padding: 10px;
+  list-style: none;
+}
+
+//
