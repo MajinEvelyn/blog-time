@@ -9,13 +9,20 @@ We are back with a new series of character builds here at Tabletop Builds. For o
 ## Honor Mode Build Series
 
 [Barbarian: Berserker]
-[Cleric: Light Domain (StormLight)]
-[Druid: Circle of the Land (LightLand)]
-[Monk: Way of the Open Hand]
+
+[Cleric: Light Domain (StormLight)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Cleric%20-%20Light%20Domain.html)
+
+[Druid: Circle of the Land (LightLand)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Druid.html)
+
+[Monk: Way of the Open Hand](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Monk.html)
+
 [Ranger: Beast Master/Gloom Stalker (LightStalker)]
+
 [Sorcerer: Storm Sorcery (TempestStorm)]
-[Warlock: The Fiend (LightFiend)]
-[Wizard: School of Conjuration/Evocation (LightConj/LightVoker)]
+
+[Warlock: The Fiend (LightFiend)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Warlock.html)
+
+[Wizard: School of Conjuration/Evocation (LightConj/LightVoker)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Wizard.html)
 
 ## What is an Honor Mode Build?
 
