@@ -3,12 +3,13 @@ title: Baldur's Gate 3
 layout: default
 nav_order: 2
 ---
-
-
+# Baldur's Gate 3 Honor Mode Build Series
+ - Mirrored from Tabletopbuilds.com, written by Majin Evelyn - 
 We are back with a new series of character builds here at Tabletop Builds. For our **Baldur's Gate 3 Honor Mode Build Series**, we are publishing a collection of eight very powerful builds that will perform excellently in the highest difficulty, Honor Mode. 
 ## Honor Mode Build Series
 
 [Barbarian: Berserker]
+Placeholder: [Sin Tee's Thrower Barbarian](https://www.youtube.com/watch?v=VuYzlfulCrM) - This build progression is very similar to mine, with many of the same conclusions.
 
 [Cleric: Light Domain (StormLight)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Cleric%20-%20Light%20Domain.html)
 
@@ -19,6 +20,7 @@ We are back with a new series of character builds here at Tabletop Builds. For o
 [Ranger: Beast Master/Gloom Stalker (LightStalker)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Ranger.html)
 
 [Sorcerer: Storm Sorcery (TempestStorm)]
+Placeholder: [Prestigious Juice Sorcerer Guide](https://www.reddit.com/r/BG3Builds/comments/179egyk/the_ultimate_allpurpose_damage_caster_optimal/) - This is not how I would build sorcerer but this is plenty useful for Honor mode alongside our other builds.
 
 [Warlock: The Fiend (LightFiend)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Warlock.html)
 
