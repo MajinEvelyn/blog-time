@@ -4,14 +4,12 @@ parent: Baldur's Gate 3
 layout: default
 nav_order: 3
 ---
-
-Honor Build - Cleric - Light Domain
-
-### Introduction
-
+# BG3 Honor Build - Cleric - Light Domain
 Author: Majin Evelyn
 
-<160 char blurb: Reliable damage in a wide area and impressive support, all in one package?! Bring the Light Domain Cleric to Baldur's Gate 3's Honor Mode!
+Editor: Pandaniel
+
+### Introduction
 
 The Light Domain Cleric provides its party reliable damage in a wide area, as well as some strong supporting effects! *Spirit guardians* works a little differently than it does in 5e, allowing the Cleric to run into enemies to trigger the damage, letting them be a little more aggressive. In combination with its Channel Divinity, Radiance of the Dawn, the Light Domain Cleric outputs very efficient damage in a wide area, which enemies can't avoid completely. Items with the [Radiating Orb](https://bg3.wiki/wiki/Radiating_Orb_(Condition) effect also augment this build's effectiveness, debuffing enemies' to-hit whenever you do Radiant damage to them (which is the damage type of all of your relevant damage).
 ### Races/Origins
