@@ -4,15 +4,12 @@ parent: Baldur's Gate 3
 layout: default
 nav_order: 1
 ---
-
-
-BG3 Honor Build: The Way of the Open Hand Monk
-
-### Introduction
-
+# BG3 Honor Build: The Way of the Open Hand Monk
 Author: Majin Evelyn
 
-<160 char blurb: Punch your enemies relentlessly with this powerful Monk build for Honor Mode in Baldur's Gate 3!
+Editor: Pandaniel
+
+## Introduction
 
 Baldur’s Gate 3’s many changes make martial classes function very differently from 5e, the most relevant one for Monks being the changed Tavern Brawler feat. Since it makes your unarmed attack and damage rolls use twice your Strength modifier, in combination with the various Giant Strength elixirs you will deal considerable damage in melee. The feat even bolsters your damage with thrown weapons, giving you a strong backup ranged option. [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust) also works for this build, but the Giant Strength elixirs provide better overall stats, are much more plentiful, and don’t rely on getting the final hits on enemies.
 
