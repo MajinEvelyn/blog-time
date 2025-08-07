@@ -16,7 +16,7 @@ We are back with a new series of character builds here at Tabletop Builds. For o
 
 [Monk: Way of the Open Hand](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Monk.html)
 
-[Ranger: Beast Master/Gloom Stalker (LightStalker)]
+[Ranger: Beast Master/Gloom Stalker (LightStalker)](https://majinevelyn.com/docs/Baldur's%20Gate%203/Honor%20Build%20-%20Ranger.html)
 
 [Sorcerer: Storm Sorcery (TempestStorm)]
 
