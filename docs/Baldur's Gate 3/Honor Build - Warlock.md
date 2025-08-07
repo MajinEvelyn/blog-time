@@ -5,10 +5,11 @@ parent: Baldur's Gate 3
 nav_order: 4
 
 ---
+# Honor Build: Warlock: The Fiend
+Author: Majin Evelyn
+Editor: Pandaniel
 
-
-## Honor Build: Warlock: The Fiend
-<160 char blurb: This Fiendish Warlock uses a powerful combination of damage, control, and sturdiness, to solve the challenges Honor Mode in Baldur’s Gate 3 presents!
+## Introduction
 
 With (nearly) exclusive access to two extremely powerful control effects in *hunger of Hadar* and the Repelling Blast invocation, the Warlock provides critical value to any party. Baldur’s Gate 3 also has several items to increase the damage of your *eldritch blast* cantrip, and The Fiend subclass provides *fireball* to this build, ensuring reliable damage from the same character. Through a combination of Dark One’s Blessing from The Fiend for reliable temporary hit points, as well as Warding Flare and armor proficiencies from Light Domain Cleric 1, this build is very self sufficient and [sturdy](https://tabletopbuilds.com/the-squishy-caster-fallacy/#What_Determines_8220Sturdiness8221). The combination of straightforward power that these features provide makes it tempting to use this build twice in the same party! Dark One’s Own Luck even improves this build’s usefulness as the Avatar character, improving your ability checks in dialogue.
 
