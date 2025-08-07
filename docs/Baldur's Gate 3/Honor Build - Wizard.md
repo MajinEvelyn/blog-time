@@ -9,6 +9,8 @@ nav_order: 5
 
 Author: Majin Evelyn
 
+Editor: Pandaniel
+
 ### Introduction
 
 Just like its 5e counterpart, the Wizard has a plethora of control effects and the widest spell list available to them. While other spellcasters can also get access to critical spells like *darkness* and *sleet storm,* Wizard has the best spell list in the game, the unique ability to learn spells from scrolls, as well as some excellent subclass features and item choices. In particular, the Conjuration School subclass has power early with Minor Conjuration, and late game can change its subclass to Evocation in order to employ similar *magic missile* strategies to our [HexVoker build](https://tabletopbuilds.com/hexvoker-school-of-evocation-wizard/). Once obtained, the [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring) will provide even more at-will control when used with *ray of frost*, which can be overwhelming in combination with the many other items that can increase your [Spell Save DC](https://bg3.wiki/wiki/List_of_Equipment_that_Affect_Spell_DC). Like many other casters, this build will enjoy the sturdiness benefits that come with a dip into Light Domain Cleric 1. This versatile build serves the role of control (frequently *sleet storm* and *ray of frost*) caster excellently. It fulfills many needs for any party, but its control power truly reaches critical mass when used in combination with our [Fiend Warlock build](https://tabletopbuilds.com/bg3-honor-build-the-fiend-warlock/).
