@@ -5,13 +5,12 @@ layout: default
 nav_order: 2
 ---
 
-Honor Build - Druid - Circle of the Land
-
-### Introduction 
-
+# BG3 Honor Build - Druid - Circle of the Land
 Author: Majin Evelyn
 
-<160 char blurb: Wild Shape and cast devastating spells to control the battlefield as a Circle of the Land Druid in Baldur’s Gate 3’s Honor Mode!
+Editor: Pandaniel
+
+## Introduction 
 
 The Circle of the Land Druid, like the Wizard, offers some powerful control spells, on top of its own unique tools. Baldur’s Gate 3 has a unique take on the Wild Shape feature, giving the Druid access to some very powerful control tools from the Spider form’s *web* and damage from the Owlbear form. Through Circle Spells, the Druid can even acquire spells such as *call lightning* and *lightning bolt* to use in combination with the [wet condition](https://bg3.wiki/wiki/Wet_(Condition)). This article will build towards and focus on the Druid’s exceptional control effects, whether it be through spells or Wild Shape forms, but there are many directions this manner of build can take.
 
