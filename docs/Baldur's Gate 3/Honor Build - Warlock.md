@@ -7,6 +7,7 @@ nav_order: 4
 ---
 # Honor Build: Warlock: The Fiend
 Author: Majin Evelyn
+
 Editor: Pandaniel
 
 ## Introduction
