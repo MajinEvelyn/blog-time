@@ -14,7 +14,7 @@ Editor: Pandaniel
 
 With (nearly) exclusive access to two extremely powerful control effects in *hunger of Hadar* and the Repelling Blast invocation, the Warlock provides critical value to any party. Baldur’s Gate 3 also has several items to increase the damage of your *eldritch blast* cantrip, and The Fiend subclass provides *fireball* to this build, ensuring reliable damage from the same character. Through a combination of Dark One’s Blessing from The Fiend for reliable temporary hit points, as well as Warding Flare and armor proficiencies from Light Domain Cleric 1, this build is very self sufficient and [sturdy](https://tabletopbuilds.com/the-squishy-caster-fallacy/#What_Determines_8220Sturdiness8221). The combination of straightforward power that these features provide makes it tempting to use this build twice in the same party! Dark One’s Own Luck even improves this build’s usefulness as the Avatar character, improving your ability checks in dialogue.
 
-### Races/Origins
+## Races/Origins
 There are various choices for your race/origin that fit in nicely for this build. Here are some race options which can optionally be combined with The Dark Urge Origin:
 
 **Drow –** Gaining hand crossbow proficiency, Superior Darkvision, Perception proficiency and one free casting of *darkness* per day is very valuable for this build.
@@ -23,18 +23,18 @@ There are various choices for your race/origin that fit in nicely for this build
 
 **Duergar –** The invisibility available from level 5 is quite valuable. It's usable every combat and out of combat, so you'll almost always enter combat invisible, giving you a unimpeded opportunities to set up *hunger of hadar* or cast *eldritch blast* at advantage.
 
-### Ability Scores
+## Ability Scores
 8 Str, 14 Dex, 14+2 Con, 8 Int, 12 Wis, 15+1 Cha
 
 Charisma and Constitution are the most important ability scores for this build, and 14 Dex allows us to maximize the effectiveness of mundane medium armor. If your Warlock is a Drow, you can swap your Dex and Con scores to give your hand crossbows slightly higher performance in Act 1. If you later take the deal in Act 1 for a +1 bonus to Charisma ([spoiler](https://bg3.wiki/wiki/Permanent_bonuses#Auntie_Ethel's_Hair)), respec this build to the following, so that your Charisma will be 18 after the bonus:
 8 Str, 14 Dex, 15+1 Con, 8 Int, 10 Wis, 15+2 Cha
 
-### Skills
+## Skills
 Skill proficiencies come from your Background, Class, and Race choices. Ultimately, for Honor Mode skill proficiencies are not important to plan for, especially if the character in question isn’t your Avatar (the one directly controlled and made by the player, who will usually be active in conversations and making ability checks). Origin characters will have their Background choices locked, but if you’re making a custom character, you have some freedom. By starting with Warlock, you can choose Deception and Intimidation proficiency, in combination with either the Guild Artisan or Noble backgrounds, which both grant Persuasion proficiency. These three proficiencies cover most skill checks in conversation, which is helpful because your primary ability score is Charisma anyway. For these reasons, the Warlock is a great choice for your Avatar character.
 
 For characters not making ability checks in conversation (i.e. non-Avatar characters), the most common checks that occur are Perception and Survival. The Outlander and Folk Hero backgrounds can provide Survival proficiency, and any (non-Half) Elf has Perception proficiency. Neither Cleric nor Warlock can provide either of these proficiencies, but other builds in your party may have them.
 
-### Level Progression
+## Level Progression
 Down below you can find a level progression that can be followed in your Baldur’s Gate 3 playthrough. You may opt to respec less often or even more often to maximize your spell progression, however, the latter is not necessary for this build to be very strong.
 
 1. Fiend 1
@@ -58,7 +58,7 @@ Down below you can find a level progression that can be followed in your Baldur�
 11. Fiend 10/Light 1
 12. Fiend 11/Light 1
 
-### Key Spells
+## Key Spells
 Cantrips: *blade ward*, *guidance*, *eldritch blast*  
 1\. *bless*, *command*, *sanctuary*, *shield of faith*  
 2\. *darkness*, *cloud of daggers*  
@@ -67,7 +67,7 @@ Cantrips: *blade ward*, *guidance*, *eldritch blast*
 5\. *cone of cold*  
 6\. *create undead*
 
-### Items
+## Items
 Your main spell, *hunger of hadar*, functions well on its own, but there are a few items that can boost the effectiveness of your *eldritch blast* cantrip. The most impactful items (which will often be optimally equipped for the rest of the game once you acquire them) will be <ins>
 underlined</ins>.
 
@@ -118,7 +118,7 @@ underlined</ins>.
 **[<ins>The Spellsparkler</ins>](https://bg3.wiki/wiki/The_Spellsparkler) (Act 1) –** This will passively boost your to-hit and damage for your *eldritch blast* as you continue to cast it, through lightning charges.
 
 
-### Strategy
+## Strategy
 Your primary strategy for most of the game (starting at level 2) involves using Repelling Blast to push enemies away from your party and/or into friendly control effects. Level 3 grants you access to first level Cleric spells, as well as more sturdiness from armor proficiency and Warding Flare. Using your slots to *shield of faith* yourself for the entire long rest will further increase your survivability. 
 
 From levels 4 to 5, *darkness* can help your party stay safe from ranged enemies. It’s functionally mobile cover, not allowing ranged attacks in or out of the area. The following strategy will solve many combats: place the spell onto your party, have each party member on their turn walk out of the *darkness*, make a ranged attack, and then walk back into the *darkness* to end their turn.
