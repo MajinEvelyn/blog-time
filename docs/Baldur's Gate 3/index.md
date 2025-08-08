@@ -4,7 +4,9 @@ layout: default
 nav_order: 2
 ---
 # Baldur's Gate 3 Honor Mode Build Series
- - Mirrored from Tabletopbuilds.com, written by Majin Evelyn - 
+#### Mirrored from Tabletopbuilds.com, written by Majin Evelyn
+
+
 We are back with a new series of character builds here at Tabletop Builds. For our **Baldur's Gate 3 Honor Mode Build Series**, we are publishing a collection of eight very powerful builds that will perform excellently in the highest difficulty, Honor Mode. 
 ## Honor Mode Build Series
 
