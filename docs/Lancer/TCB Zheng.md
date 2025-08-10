@@ -78,10 +78,10 @@ The Zheng is an exceptionally well-statted frame for its purpose as a striker. I
 - Main-Main-Heavy Mount: Adequate mounting for most striker purposes, though auxiliary weapons are troublesome outside of core bonuses.
 
 ### Traits
-DESTRUCTIVE SWINGS: At the end of the Zheng’s turn, if it made at least one melee attack against a hostile character, the force of its swings creates a SIZE 1 piece of terrain that grants hard cover in a free, adjacent space. It has 10 HP and EVASION 5. 
-	- Destructive Swings is a potent frame-trait that encourages it to make, well, melee attacks. The easiest way to use this is to plant it between yourself and ranged enemies to generate Hard Cover, but it can also be used to block out chokepoints and enable its core passive. 
-2. WEAK COMPUTER: The Zheng takes +1 Difficulty on all systems saves and checks.
-	- Not much to say here other than the fact that it’s inconvenient if/when it comes up. Don’t bother with trying to shore up your systems- instead, try positioning such that the actions that prompt you to roll these can’t target you.
+DESTRUCTIVE SWINGS: At the end of the Zheng’s turn, if it made at least one melee attack against a hostile character, the force of its swings creates a SIZE 1 piece of terrain that grants hard cover in a free, adjacent space. It has 10 HP and EVASION 5.   
+- Destructive Swings is a potent frame-trait that encourages it to make, well, melee attacks. The easiest way to use this is to plant it between yourself and ranged enemies to generate Hard Cover, but it can also be used to block out chokepoints and enable its core passive.  
+WEAK COMPUTER: The Zheng takes +1 Difficulty on all systems saves and checks.  
+- Not much to say here other than the fact that it’s inconvenient if/when it comes up. Don’t bother with trying to shore up your systems- instead, try positioning such that the actions that prompt you to roll these can’t target you.  
 ### Core Passive
 Xiaoli’s Tenacity: 1/turn as a free action, you may move up to 3 spaces then deal 2 Kinetic to any adjacent character or 10 Kinetic AP to an object or piece of terrain. This movement prompts engagement and does not ignore reactions. If this damage destroys an object or piece of terrain, it explodes, dealing 1d6 Kinetic to all adjacent characters other than you and knocking them back 1 space.
 
