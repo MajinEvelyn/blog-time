@@ -7,7 +7,8 @@ parent: Lancer
 
 # Snow on the Sand - A Guide to TCB Zheng
 
-By: shep (@hyponumangel on discord)
+Author: shep (@hyponumangel on discord)
+Editor: Majin Evelyn
 
 ## Preamble
 ```
