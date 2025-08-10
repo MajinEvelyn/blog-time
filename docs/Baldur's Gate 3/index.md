@@ -1,7 +1,7 @@
 ---
 title: Baldur's Gate 3
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 # Baldur's Gate 3 Honor Mode Build Series
 #### Mirrored from Tabletopbuilds.com, written by Majin Evelyn
