@@ -98,7 +98,8 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 - Projected Shield: Useful for self-heat, as well as deliberately trying to miss a target for Backswing into No Escape. Doesn't protect you from tech-attacks, but can be useful. 
 - Type-I Flight System: For the cost of 2 heat a round, you can fly. This functionally makes you immune to Prone and difficult terrain, and allows you to jet around the map. Heat generation is useful for nuccav- but risky because of your 6 E-Defense makes you vulnerable to chump invades. 
 - EVA Module: Mostly an ablative, EVA Module sometimes comes up outside of space or water with GMs ruling it as allowing you to cross a river or something similar unhindered. 
-- CPJ: Custom Paintjob is funny. Whether it's "good" is entirely dependent on your luck- but a CPJ trigger is rarely an uninteresting occasion. 
+- CPJ: Custom Paintjob is funny. Whether it's "good" is entirely dependent on your luck- but a CPJ trigger is rarely an uninteresting occasion.
+  
 ### IPS-N 
 #### Nelson License
 - Bulwark Mods: Cheap, effective and useful as an ablative. As a melee striker, mobility is necessary! Consider picking this up.
@@ -106,6 +107,7 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 
 #### Tortuga License
 - Decksweeper Automatic Shotgun: Threat 3, Range 3, 2d6 Kinetic. Inaccurate is cancelled out by Vanguard 1, and proves to be an excellent threat to hold up off-turn with Vanguard 3. Do try to avoid Engagement while using this.
+- 
 #### Vlad License
 - Impaler Nailgun: An alternate weapon to DSAS, Nailgun offers heat-generation and an Immobilize on-hit to armbar pesky melee NPCs- though Zheng's lackluster save target and poor e-defense make it a little riskier to use. Heat fuels Nuccav, though, so it's worth considering.
 
@@ -115,7 +117,8 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 #### Zheng License
 - Total Strength Suite I: Throw a rock. As amusing as it is, TSS1 is a powerful system that allows you to deal kb1, 1d6 and place a rock anywhere adjacent to the person you just threw the rock at. This allows you to subsequently Tenacity that rock for free damage. Great for granular repositioning and always a fun system to use. Did you know that it doesn't have the Unique tag? You can run 2 of them- activating each of them individually doesn't count as duplicating actions. Solid action to use while Jammed or while dealing with targets that have features that would make attacks automatically miss.
 - Molten Wreathe: Put simply- diet thermal charges. As it is omnidirectional, making use of the TCB's Kb2 to place the target into an opportune place before directing the cone into less armored targets. Outpaced by Thermal Charges- but still a useful source of extra damage early on. Note that it happens in a separate instance- so it's effected by armor and doesn't deal damage to anything with 2 or more armor (including yourself!) 
-- The Frame: The Frame is here. You kinda need to take it. 
+- The Frame: The Frame is here. You kinda need to take it.
+
 ### SSC 
 #### Dusk Wing License
 - Flickerfield Projector: Free invis, 1/round. Low cost. Try keeping a little reminder on your screen while using it- a lot of people forget if/when they have FFP.
@@ -129,10 +132,12 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 
 #### Atlas License
 - Jager Kunst I: Richochet off Size 2 and bigger objects. Situationally useful, but generally not necessary. If you can somehow get your Zheng to be a Size 1/2 mech, this system becomes incredibly busted. For ethical reasons, I do not endorse any method to make a Zheng size 1/2. 
-- Jager Kunst II: A neat system that allows you to challenge someone to a stat-check duel. Winning it nets you some damage, knockback and movement- movement that you can specifically use to extend backswing cut angles. Overcosted and requires you to focus one of your stats (Hull: Gyges, Agi: ATMS Ace 1/Kai Bioplating) as well as wanting Spaceborn 3 (Talent)- it's more a "cool" option than an optimal one. 
+- Jager Kunst II: A neat system that allows you to challenge someone to a stat-check duel. Winning it nets you some damage, knockback and movement- movement that you can specifically use to extend backswing cut angles. Overcosted and requires you to focus one of your stats (Hull: Gyges, Agi: ATMS Ace 1/Kai Bioplating) as well as wanting Spaceborn 3 (Talent)- it's more a "cool" option than an optimal one.
+  
 ### HORUS
 #### Balor License
-- Nanocomposite Adaptation: Not recommended. You can make your CQB and/or your TCB Smart and Seeking. Generally not useful and super overcosted, but technically an ok option if you expect to see lots of Hornets. Generally, the Accuracy granted by autostab is enough to push through. 
+- Nanocomposite Adaptation: Not recommended. You can make your CQB and/or your TCB Smart and Seeking. Generally not useful and super overcosted, but technically an ok option if you expect to see lots of Hornets. Generally, the Accuracy granted by autostab is enough to push through.
+
 ### HARRISON ARMORY
 #### Saladin License
 - Flash Anchor: Flash Anchor is comedically cheap- costing you 1 SP, 2 Heat and no actions taken on-turn to completely nullify knockback, pushes and pulls on yourself or a very, very close-by ally. Allows you to dive into control zones and sit there, immovable. Did you know it also gives immunity to the things it prevents in the first place, too?
@@ -146,7 +151,8 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 
 ### Sunzi License
 - Blink Charge: Blink Charge, specifically Warp Grenade, is an extremely potent positioning tool. Covering a staggering Blast 3, word of Tom says it effects all chararacters in the zone, allowing you to move yourself, allies and enemies into optimal positions for sitrep play, backswing and tenacity angles, etc, etc. The mine is somewhat mediocre on Zheng but still technically usable. 
-- Blinkspace Tunneler: Blink Charge's smaller brother, Tunneler allows you to lay down a portal for allies to follow you- useful for if you decide to dive to where allies are otherwise unable to reach you. 
+- Blinkspace Tunneler: Blink Charge's smaller brother, Tunneler allows you to lay down a portal for allies to follow you- useful for if you decide to dive to where allies are otherwise unable to reach you.
+
 ## Killing Intention (Strategy)
 So, how do you play this build? It's easy to say "dive," but how do you dive without eating shit?
 ### Play with your Team!
@@ -194,8 +200,10 @@ Though it will depend on the game, you will generally want to hunt down NPCs tha
 - Support: Be wary of sealant gun- kill their allies first, though.
 - Witch: Packs a whole slew of tech attacks to ruin your day. Seek and destroy, they are not durable enough to withstand the TCB. Avoid Line of Sight.
 - Squad: Somewhat tricky to deal with. Be wary of the AP weapon. Not exceptionally threatening. 
+
 ### Positioning
 Placing yourself in the correct position to exploit Destructive Swings and Xiaoli's Tenacity is important. Make sure you're able to access at least 2 targets for Backswing Cut, and make sure you're close enough for your CQB's threat to sit near or on NPCs that will want to move (and thus, trigger your overwatch). Use Destructive Swings to plant a rock to use as cover- or adjacent to an enemy nearby to pressure them by threatening the next turn's Tenacity on them. Break line of sight with tech attackers and controllers as much as possible. 
+
 ## Sword in the Hand (Core Bonuses and Talents)
 ### Core Bonuses
 #### GMS: 
@@ -300,9 +308,9 @@ Lose: Prospector 1, GMS Shotgun
 ```
 **Pankrati 2 -** An early Pankrati 2 pickup smooths out movement, allowing you to close the distance rapidly and benefit greatly from allied slow/prone. 
 ### LL2  
-Respec: Tortuga 1 -> Zheng 1
-Gain: Zheng 2, Zheng Frame, GMS Shotgun, Prospector 1, Molten Wreathe, +1 Engi
-Lose: DSAS, Tortuga 1, Sagarmatha Frame, Projected Shield, RBJJ
+Respec: Tortuga 1 -> Zheng 1  
+Gain: Zheng 2, Zheng Frame, GMS Shotgun, Prospector 1, Molten Wreathe, +1 Engi  
+Lose: DSAS, Tortuga 1, Sagarmatha Frame, Projected Shield, RBJJ  
 ```
 -- IPS-N Zheng @ LL2 --
 [ LICENSES ]
