@@ -25,57 +25,56 @@ Hi! I'm shep (she/they), and I am normal about Lancer. I can't help you with the
 *Art Credits:* Snow on the Sand by shep (@hyponumangel) - [bsky](https://bsky.app/profile/hyponumangel.bsky.social), includes [Retrograde Minis](https://www.retrogrademinis.com/) assets  
 
 ## Terminology
-Ablative: Refers to a cheap, low cost system/weapon that can be destroyed in the event of System Trauma without significantly impacting the build. 
-AP: Armor Piercing (tag)
-ATMS: All-Theatre Movement Suite (Core Bonus)
-Autostab: Auto-Stabilizing Hardpoints (Core Bonus)
-Backswing Bounce: A tech-option using No Escape after missing an attack to reroll an attack into a nearby terrain-piece, then using Backswing Cut to strike the initial target. Ask your GM about this.
-Backswing Lunge: A trick that uses Hunter 1 and an Integrated Auxillary Melee of your choice to leap 3 spaces before using Backswing Cut to extend the range.
-Blinkspector: Blink Charge+Prospector, a combination of system and talent that add a great deal of mobility to both the build that runs them and the team they run alongside.
-Bulk: A term that roughly summarizes the overall durability of a mech by weighting HP, Armor, Evasion and (to a lesser extent) E-Defense, as well as defensive features it might have access to.
-DPR: Damage Per Round
-DSAS: Decksweeper Automatic Shotgun.
-Downsmash: A usage of Xiaoli's Tenacity to strike and destroy an object beneath you. Typically useful for repositioning enemies.
-FA1: Field Analyst 1 (Talent)
-FFP: Flickerfield Projector (Dusk Wing 2)
-FRG: Fuel Rod Gun (Nuclear Cavalier 3)
-FSS: Full Subjectivity Sync (Core Bonus)
-Flanchor/FLock: Flash Anchor (Saladin 2)
-GM X (usually 2 or 3): Grease Monkey (Talent)
-Gougar/Gougarframe: Gyges Frame (Core Bonus)
-HASE: Hull-Agility-Systems-Engineering, usually denoted as numbers respectively. (ex: 2204)
-HFC/HCS: Heatfall Coolant System (Core Bonus)
-Hoagiefest: Any mention of Wawa Hoagiefest refers to a flying Zheng build, usually with core-active to achieve a "chainboosting"-like effect. This occurs because flight requires you to move in straight lines for individual movements- and while core is up, each instance of Xiaoli's Tenacity is a separate instance of movement, allowing you to jet around the map in zig-zags in a method resembling chainboosting from the Armored Core series.
-JK1/2: Jager Kunst I and II (Atlas 2 and 3)
-Jailgun: Jager Rounds (Walking Armory 2) + Impaler Nailgun (Vlad 2)
-Kalunga: Kalunga
-KBP: Kai Bioplating (Core Bonus)
-Kb X: Knockback X, where X is a number.
-Nuccav: Nuclear Cavalier (Talent)
-OC: Overcharge
-One-Cycle: A striker term meaning to wreck an NPC/take an NPC from 100-0 within one turn's worth of actions. (like an OHKO, but not strictly one hit)
-Opcal: Overpower Caliber (Core Bonus)
-PDS: Point-Defense Shield (Cataphract Base System)
-Pank X (usually 2): Pankrati 2, referring to the first 2 ranks of the Pankrati Talent.
-Prosp X (usually 1 or 3): Prospector (talent)
-RSU: Redundant Systems Upgrade (Sherman 2)
-Refframe: Reinforced Frame (Core Bonus)
-SBD: Superior By Design (Core Bonus)
-TCB: Tempest Charged Blade, the namesake weapon of the build.
-TSS1: Total Strength Suite I (Zheng 1)
-Tipper: Knockback sequencing with damage. Effects that deal both knockback and damage are usually able to resolve knockback and damage in either order (page reference here), allowing you to circumvent proximity-based resistance (Cataphract's Point-Defense Shield, Avenger's Assault Armor, MBT's Composite Armor) by dealing Knockback first, then damage after the resistance is no longer active. Named
-Uppercut: A usage of Xiaoli's Tenacity to strike and destroy an object beneath an enemy.
-Vg X (usually 3): Vanguard 3, referring to all 3 ranks of the Vanguard Talent.
-WAC: Wide-Arc Cleave, rank 2 of the Executioner Talent.
-Xiaolijuggle: Using the knockback of Xiaoli's Tenacity to knock an enemy adjacent to another destructible piece of terrain.
-eHP: Effective HP.
+Ablative: Refers to a cheap, low cost system/weapon that can be destroyed in the event of System Trauma without significantly impacting the build.  
+AP: Armor Piercing (tag)  
+ATMS: All-Theatre Movement Suite (Core Bonus)  
+Autostab: Auto-Stabilizing Hardpoints (Core Bonus)  
+Backswing Bounce: A tech-option using No Escape after missing an attack to reroll an attack into a nearby terrain-piece, then using Backswing Cut to strike the initial target. Ask your GM about this.  
+Backswing Lunge: A trick that uses Hunter 1 and an Integrated Auxillary Melee of your choice to leap 3 spaces before using Backswing Cut to extend the range.  
+Blinkspector: Blink Charge+Prospector, a combination of system and talent that add a great deal of mobility to both the build that runs them and the team they run alongside.  
+Bulk: A term that roughly summarizes the overall durability of a mech by weighting HP, Armor, Evasion and (to a lesser extent) E-Defense, as well as defensive features it might have access to.  
+DPR: Damage Per Round  
+DSAS: Decksweeper Automatic Shotgun.  
+Downsmash: A usage of Xiaoli's Tenacity to strike and destroy an object beneath you. Typically useful for repositioning enemies.  
+FA1: Field Analyst 1 (Talent)  
+FFP: Flickerfield Projector (Dusk Wing 2)  
+FRG: Fuel Rod Gun (Nuclear Cavalier 3)  
+FSS: Full Subjectivity Sync (Core Bonus)  
+Flanchor/FLock: Flash Anchor (Saladin 2)  
+GM X (usually 2 or 3): Grease Monkey (Talent)  
+Gougar/Gougarframe: Gyges Frame (Core Bonus)  
+HASE: Hull-Agility-Systems-Engineering, usually denoted as numbers respectively. (ex: 2204)  
+HFC/HCS: Heatfall Coolant System (Core Bonus)  
+Hoagiefest: Any mention of Wawa Hoagiefest refers to a flying Zheng build, usually with core-active to achieve a "chainboosting"-like effect. This occurs because flight requires you to move in straight lines for individual movements- and while core is up, each instance of Xiaoli's Tenacity is a separate instance of movement, allowing you to jet around the map in zig-zags in a method resembling chainboosting from the Armored Core series.  
+JK1/2: Jager Kunst I and II (Atlas 2 and 3)  
+Jailgun: Jager Rounds (Walking Armory 2) + Impaler Nailgun (Vlad 2)  
+Kalunga: Kalunga  
+KBP: Kai Bioplating (Core Bonus)  
+Kb X: Knockback X, where X is a number.  
+Nuccav: Nuclear Cavalier (Talent)  
+OC: Overcharge  
+One-Cycle: A striker term meaning to wreck an NPC/take an NPC from 100-0 within one turn's worth of actions. (like an OHKO, but not strictly one hit)  
+Opcal: Overpower Caliber (Core Bonus)  
+PDS: Point-Defense Shield (Cataphract Base System)  
+Pank X (usually 2): Pankrati 2, referring to the first 2 ranks of the Pankrati Talent.  
+Prosp X (usually 1 or 3): Prospector (talent)  
+RSU: Redundant Systems Upgrade (Sherman 2)  
+Refframe: Reinforced Frame (Core Bonus)  
+SBD: Superior By Design (Core Bonus)  
+TCB: Tempest Charged Blade, the namesake weapon of the build.  
+TSS1: Total Strength Suite I (Zheng 1)  
+Tipper: Knockback sequencing with damage. Effects that deal both knockback and damage are usually able to resolve knockback and damage in either order (page reference here), allowing you to circumvent proximity-based resistance (Cataphract's Point-Defense Shield, Avenger's Assault Armor, MBT's Composite Armor) by dealing Knockback first, then damage after the resistance is no longer active. Named  
+Uppercut: A usage of Xiaoli's Tenacity to strike and destroy an object beneath an enemy.  
+Vg X (usually 3): Vanguard 3, referring to all 3 ranks of the Vanguard Talent.  
+WAC: Wide-Arc Cleave, rank 2 of the Executioner Talent.  
+Xiaolijuggle: Using the knockback of Xiaoli's Tenacity to knock an enemy adjacent to another destructible piece of terrain.  
+eHP: Effective HP.  
 ## Diagrams
 ![Downsmash](/img/downsmash.png)  
 ![Zheng Technique](/img/zheng_technique.png)  
 ![Tablecloth](/img/tablecloth.png)  
 
 ## Crashing Antarctic (Frame Overview)
-![Zheng Sigma](/img/zheng_sigma.png/)  
 ### Stats
 The Zheng is an exceptionally well-statted frame for its purpose as a striker. It spares no budget for stats and is nestled cleanly in IPS-N to pick up Reinforced Frame to further improve its bulk. Lackluster tech/controller stats, but you weren't taking those actions anyways (unless…). Notable stats are as follows.
 - 10 HP / 2 Armor: Spectacular durability, even for an IPS-N frame. Allows you to comfortably invest in Agility for speed without compromising durability, especially with Reinforced Frame.
@@ -99,6 +98,7 @@ Xiaoli’s Ingenuity: For the rest of the scene, this system gains 6 charges (yo
 
 Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning the effective Speed 6 frame into a Speed 24 frame. This allows you to circumvent mobility-denial reactions by giving up one of your 8 possible instances of movement. Note that dealing damage by ‘rock explosion’ will refund at least 2 charges, allowing you to strike the same target multiple times losslessly, if needed. An effective strategy to nova a single target down is Tenacity the target for 2, then an adjacent rock for 1d6. This has, in total, gone “neutral” in Ingenuity charges, allowing you to power out chip damage without much effort. If you hit another target with the rock explosion, you can tap the original target again for another 2. It’s ok to go negative on Tenacity charges on some turns if necessary- you can regain them quickly by hitting with the rock explosions. Tips for use include using your standard move to bridge the gap between unique objects. Tenacity is a potent feign-death checker- Ingenuity makes it practically free.
 ## Breaker of Land (License Gear Overview)
+![Zheng Sigma](/img/zheng_sigma.png/)  
 ### GMS
 - Tempest Charged Blade: Ralf Ziegler's gift to melee strikers. Sporting a staggering base Threat of 2, a massive 3d6+4 Energy damage profile, the AP tag AND Knockback 2, the TCB is a formidable weapon that you should typically be aiming to swing as much as possible. It almost immediately gets autostabbed- it has no shortage of damage, it merely needs to hit. Knockback 2 allows you to break pesky grapples, clear zones and perform "Tippers". Apparantly, TCB is also an anti-tank sword- the knockback 2 can turn the armored face of an MBT away from you before dealing damage. 
 - Shotgun: While powercrept hard by DSAS, the honorable GMS Shotgun is a functional weapon. You can use it. 
