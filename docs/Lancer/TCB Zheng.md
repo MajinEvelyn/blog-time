@@ -282,11 +282,9 @@ TCB Zheng is not playable at LL0-1, so we'll be playing a similar TCB Sagarmatha
 ```
 A generic TCB Sagarmatha. We elect to pick the Size 2 because it covers more space for threat with the shotgun and TCB, and have taken Executioner 1 to make the most of it. Note that most of the power of this talent is concentrated in the first level- so we won't cap it out until later.
 ### LL1  
-Respec: Prospector 1 -> Pankrati 1
-
-Gain: Tortuga 1, DSAS, Pankrati 2, +1 Engi
-
-Lose: Prospector 1, GMS Shotgun 
+Respec: Prospector 1 -> Pankrati 1  
+Gain: Tortuga 1, DSAS, Pankrati 2, +1 Engi  
+Lose: Prospector 1, GMS Shotgun  
 ```
 -- GMS Sagarmatha @ LL1 --
 [ LICENSES ]
@@ -334,12 +332,12 @@ Lose: DSAS, Tortuga 1, Sagarmatha Frame, Projected Shield, RBJJ
 [ SYSTEMS ]
   Armament Redundancy, Personalizations, Total Strength Suite I, Custom Paint Job
 ```
-**Molten Wreathe -** A useful damage source against tightly clumped and low-armor targets, Molten Wreathe's omnidirectional cone can be projected before or after the TCB's knockback to achieve some range- though the damage leaves something to be desired.
+**Molten Wreathe -** A useful damage source against tightly clumped and low-armor targets, Molten Wreathe's omnidirectional cone can be projected before or after the TCB's knockback to achieve some range- though the damage leaves something to be desired.  
 **Total Strength Suite I -** A mainstay on any Zheng build, TSS1 functions as ~2d6 damage on a single target for a quick action. Useful for dealing with invisible targets- as you can subsequently Tenacity the rock it generates. You can also throw size 1 wrecks with this system, which is both amusing and situationally useful. 
 ### LL3
-Respec: Prospector 1 -> Vanguard 2
-Gain: Tortuga 1, DSAS, Vanguard 3, +1 Agility, Auto-Stabilizing Hardpoints, EVA Module
-Lose: GMS Shotgun 
+Respec: Prospector 1 -> Vanguard 2  
+Gain: Tortuga 1, DSAS, Vanguard 3, +1 Agility, Auto-Stabilizing Hardpoints, EVA Module  
+Lose: GMS Shotgun  
 ```
 -- IPS-N Zheng @ LL3 --
 [ LICENSES ]
@@ -363,9 +361,9 @@ Lose: GMS Shotgun
 ```
 The build comes fully online at this license level. Nothing new to discuss here.
 ### LL4
-Respec: N/A
-Gain: Sunzi 1, Blink Charges, Prospector 1, +1 Agi
-Lose: Molten Wreathe, EVA Module
+Respec: N/A  
+Gain: Sunzi 1, Blink Charges, Prospector 1, +1 Agi  
+Lose: Molten Wreathe, EVA Module  
 ```
 -- IPS-N Zheng @ LL4 --
 [ LICENSES ]
@@ -389,9 +387,9 @@ Lose: Molten Wreathe, EVA Module
 ```
 **Blink Charges -** Blink Charge- specifically, Warp Grenade, is a powerful positioning tool. Use it to move yourself and allies around- as well as trying to place enemies clumped together for Tenacity and Backswing Cut. This is an action worth overcharging for, even with your poor e-defense. 
 ### LL5
-Respec: Prospector 1 -> Executioner 2
-Gain: Nelson 1, Bulwark Mods, Executioner 3, +1 Engi
-Lose: N/A
+Respec: Prospector 1 -> Executioner 2  
+Gain: Nelson 1, Bulwark Mods, Executioner 3, +1 Engi  
+Lose: N/A  
 ```
 -- IPS-N Zheng @ LL5 --
 [ LICENSES ]
@@ -415,9 +413,9 @@ Lose: N/A
 ```
 **Executioner 3 -** No Escape comes online at this license level, allowing you to reliably hit the TCB against something. You can deliberately backswing into something particularly hard to hit to trigger No Escape to hit the primary target again. 
 ### LL6
-Respec: N/A
-Gain: Nelson 2, Thermal Charges, Prospector 1, +1 Engi
-Lose: Bulwark Mods, Custom Paint Job
+Respec: N/A  
+Gain: Nelson 2, Thermal Charges, Prospector 1, +1 Engi  
+Lose: Bulwark Mods, Custom Paint Job  
 ```
 -- IPS-N Zheng @ LL6 --
 [ LICENSES ]
@@ -439,12 +437,12 @@ Lose: Bulwark Mods, Custom Paint Job
 [ SYSTEMS ]
   Armament Redundancy, Personalizations, Total Strength Suite I, Blink Charges x5
 ```
-**Reinforced Frame -** +5 HP provides a massive boost to survivability. Coupled with 11 Evasion and Destructive Swings, you are a very durable frame. Make sure to position aggressively to make the best use of this. 
+**Reinforced Frame -** +5 HP provides a massive boost to survivability. Coupled with 11 Evasion and Destructive Swings, you are a very durable frame. Make sure to position aggressively to make the best use of this.  
 **Thermal Charge -** Self explanatory pick. Try to maximize damage out of Thermal Charges and conserve it for when you think the damage would make the difference between a structure or not. 
 ### LL7
-Respec: N/A
-Gain: Saladin 1, Bulwark Mods, Field Analyst 1, +1 Agi
-Lose: n/a
+Respec: N/A  
+Gain: Saladin 1, Bulwark Mods, Field Analyst 1, +1 Agi  
+Lose: n/a  
 ```
 -- IPS-N Zheng @ LL7 --
 [ LICENSES ]
@@ -466,12 +464,12 @@ Lose: n/a
 [ SYSTEMS ]
   Armament Redundancy, Personalizations, Total Strength Suite I, Blink Charges x5, Bulwark Mods
 ```
-**Field Analyst 1 -** This is a somewhat unremarkable license level, so we take FA1 to bolster our team. This is somewhat of a free space.
+**Field Analyst 1 -** This is a somewhat unremarkable license level, so we take FA1 to bolster our team. This is somewhat of a free space.  
 **Bulwark Mods -** Immunity to difficult terrain is always good on a melee frame- but you can swap your Saladin license level out for Caliban 1 Supermassive Mod Decksweeper. This makes the respec a little bit more awkward.
 ### LL8
-Respec: Field Analyst 1 -> Nuclear Cavalier 1
-Gain: Saladin 2, Flash Anchor, +1 Agi
-Lose: N/A
+Respec: Field Analyst 1 -> Nuclear Cavalier 1  
+Gain: Saladin 2, Flash Anchor, +1 Agi  
+Lose: N/A  
 ```
 -- IPS-N Zheng @ LL8 --
 [ LICENSES ]
@@ -493,12 +491,12 @@ Lose: N/A
 [ SYSTEMS ]
   Armament Redundancy, Personalizations, Total Strength Suite I, Blink Charges x5, Flash Anchor
 ```
-**Flash Anchor -** Immunity to several forms of involuntary movement, this allows you to avoid being knocked off control zones, as well as generating heat. 
+**Flash Anchor -** Immunity to several forms of involuntary movement, this allows you to avoid being knocked off control zones, as well as generating heat.  
 **Nuclear Cavalier -** Flash Anchor and Overcharging generates enough heat to set you into Danger Zone, enabling big hits with the TCB with +1d6 Bonus Damage. This also punishes heatgunning- though you're still vulnerable with your poor e-defense. 
 ### LL9
-Respec: Tortuga 1 -> Vlad 1
-Gain: Vlad 2, Impaler Nailgun, +1 Hull 
-Lose: DSAS 
+Respec: Tortuga 1 -> Vlad 1  
+Gain: Vlad 2, Impaler Nailgun, +1 Hull  
+Lose: DSAS  
 ```
 -- IPS-N Zheng @ LL9 --
 [ LICENSES ]
@@ -521,15 +519,13 @@ Lose: DSAS
 [ SYSTEMS ]
   Armament Redundancy, Personalizations, Total Strength Suite I, Blink Charges x5, Flash Anchor, Bulwark Mods
 ```
-**Superior By Design -** This license level is a big spike in power. SBD sets our heatcap to a very comfortable 12 and gives immunity to Impair- allowing you to shake off Structure and Stress rolls, as well as enemy fragsigs and other features that would otherwise remove the Accuracy from the TCB. 
-
-**Impaler Nailgun -** A solid CQB weapon in its own right, the Impaler Nailgun's Immobilization is threatening even with Zheng's mediocre save target- as failure enables Pankrati 1 and dooms a lot of NPCs to a swift death. Self heat is crucial, as it's a stable, low action cost form of heat generation that activates Nuclear Cavalier when you hit danger zone. You can keep DSAS and run Supermassive instead if you want more damage, but NPCs at this tier of play start becoming very evasive and bulky- where Nailgun's lack of the innaccurate tag and utility start to pull ahead. We juggle the two weapons for the next license levels to grab other systems, as they're both threatening CQB options.
-
+**Superior By Design -** This license level is a big spike in power. SBD sets our heatcap to a very comfortable 12 and gives immunity to Impair- allowing you to shake off Structure and Stress rolls, as well as enemy fragsigs and other features that would otherwise remove the Accuracy from the TCB.  
+**Impaler Nailgun -** A solid CQB weapon in its own right, the Impaler Nailgun's Immobilization is threatening even with Zheng's mediocre save target- as failure enables Pankrati 1 and dooms a lot of NPCs to a swift death. Self heat is crucial, as it's a stable, low action cost form of heat generation that activates Nuclear Cavalier when you hit danger zone. You can keep DSAS and run Supermassive instead if you want more damage, but NPCs at this tier of play start becoming very evasive and bulky- where Nailgun's lack of the innaccurate tag and utility start to pull ahead. We juggle the two weapons for the next license levels to grab other systems, as they're both threatening CQB options.  
 **Nuclear Cavalier 3 -** Fuel Rod Gun is a second CQB option we have to clear a third of our heatcap by firing it. Best used as an Overwatch, FRG allows you to juggle heat to stave off stress damage to spam Flash Anchor to keep yourself where you need to be. 
 ### LL10
-Respec: Vlad 2 -> Dusk Wing 2 
-Gain: Tortuga 1, DSAS, Flickerfield Projector, Field Analyst 1, +1 Hull
-Lose: Impaler Nailgun
+Respec: Vlad 2 -> Dusk Wing 2  
+Gain: Tortuga 1, DSAS, Flickerfield Projector, Field Analyst 1, +1 Hull  
+Lose: Impaler Nailgun  
 ```
 -- IPS-N Zheng @ LL10 --
 [ LICENSES ]
@@ -554,9 +550,9 @@ Lose: Impaler Nailgun
 ```
 **Flickerfield Projector -** 1/round invisibility. Forces the GM to either eat it with a less important attack first or gamble a big attack possibly missing. Works against tech attacks, which is nice. Very cheap on SP, which is great for a mech with poor base SP like Zheng.  
 ### LL11
-Respec: Field Analyst 1 -> Prospector 2
-Gain: Prospector 3, Dusk Wing 3, StunCrown, +1 Agi
-Lose: Personalizations 
+Respec: Field Analyst 1 -> Prospector 2  
+Gain: Prospector 3, Dusk Wing 3, StunCrown, +1 Agi  
+Lose: Personalizations  
 ```
 -- IPS-N Zheng @ LL11 --
 [ LICENSES ]
@@ -582,9 +578,9 @@ Lose: Personalizations
 **Prospector 3 -** An awesome talent rank. Use it as a boost for yourself, or to link two sides of the map together. You now can run the formidable "blinkspector" roll-out turn 1 where you Blink -> Prosp -> Oc Blink your team forward into the fray- the later tunnel you make can be used to rotate back to protect backliners from NPCs who dive them. 
 **StunCrown -** StunCrown matches TCB's threat. By playing for Backswing, you also play for Stuncrown angles- it's a great first-activation tool for when you can catch a lot of targets, or as an emergency button if you dive too deep. Stack the save for Impair first before the save for Jam. 
 ### LL12  
-Respec: Tortuga 1 -> Vlad 2
-Gain: All-Theater Movement Suite, Ace 1, +1 Agi
-Lose: DSAS
+Respec: Tortuga 1 -> Vlad 2  
+Gain: All-Theater Movement Suite, Ace 1, +1 Agi  
+Lose: DSAS  
 ```
 -- IPS-N Zheng @ LL12 --
 [ LICENSES ]
