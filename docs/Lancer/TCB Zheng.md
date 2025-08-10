@@ -21,7 +21,7 @@ What the fuck is up with Zheng, anyways? And why do some of the people who play 
 ```
 ## Introduction
 Hi! I'm shep (she/they), and I am normal about Lancer. I can't help you with the previous question- but I can help you with playing the Zheng- specifically a variation of TCB Zheng I call 'Snow on the Sand.' This guide is about that build- a formidable melee dive-striker that's a great addition to any team that needs burst damage and frontline presence. For some context, I have almost 200 hours playing the Zheng (estimated), a large portion of which has been spent playing the TCB variant, across the Hearth-7 Westmarch, house-games, pickup games online, etc. This guide covers terminology, the frame, equipment and strategies first before diving into an example corebook respec-compliant build. The last section contains variant builds for LL6, LL9 and LL12.  
-![Snow On The Sand](/img/snow_on_the_sand-shotgun)  
+![Snow On The Sand](/img/snow_on_the_sand-shotgun.png)  
 *Art Credits:* Snow on the Sand by shep (@hyponumangel) - [bsky](https://bsky.app/profile/hyponumangel.bsky.social), includes [Retrograde Minis](https://www.retrogrademinis.com/) assets  
 
 ## Terminology
@@ -71,8 +71,8 @@ Xiaolijuggle: Using the knockback of Xiaoli's Tenacity to knock an enemy adjacen
 eHP: Effective HP.
 ## Diagrams
 ![Downsmash](/img/downsmash.png)  
-![Zheng Technique](/img/zheng_technique)  
-![Tablecloth](/img/tablecloth)  
+![Zheng Technique](/img/zheng_technique.png)  
+![Tablecloth](/img/tablecloth.png)  
 
 ## Crashing Antarctic (Frame Overview)
 ### Stats
