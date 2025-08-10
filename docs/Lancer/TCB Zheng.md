@@ -163,7 +163,7 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 - Blinkspace Tunneler: Blink Charge's smaller brother, Tunneler allows you to lay down a portal for allies to follow you- useful for if you decide to dive to where allies are otherwise unable to reach you.
 
 ## Killing Intention (Strategy)
-![Zheng Is Coming Euro](/img/zheng_is_coming_euro/)  
+![Zheng Is Coming Euro](/img/zheng_is_coming_euro.png/)  
 *silly meme by @euroliis on discord*
 
 So, how do you play this build? It's easy to say "dive," but how do you dive without eating shit?
