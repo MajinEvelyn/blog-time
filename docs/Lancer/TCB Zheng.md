@@ -98,7 +98,7 @@ Xiaoli’s Ingenuity: For the rest of the scene, this system gains 6 charges (yo
 
 Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning the effective Speed 6 frame into a Speed 24 frame. This allows you to circumvent mobility-denial reactions by giving up one of your 8 possible instances of movement. Note that dealing damage by ‘rock explosion’ will refund at least 2 charges, allowing you to strike the same target multiple times losslessly, if needed. An effective strategy to nova a single target down is Tenacity the target for 2, then an adjacent rock for 1d6. This has, in total, gone “neutral” in Ingenuity charges, allowing you to power out chip damage without much effort. If you hit another target with the rock explosion, you can tap the original target again for another 2. It’s ok to go negative on Tenacity charges on some turns if necessary- you can regain them quickly by hitting with the rock explosions. Tips for use include using your standard move to bridge the gap between unique objects. Tenacity is a potent feign-death checker- Ingenuity makes it practically free.
 ## Breaker of Land (License Gear Overview)
-![Zheng Sigma](/img/zheng_sigma.png/)  
+![Zheng Sigma](/img/zheng_sigma.png)  
 ### GMS
 - Tempest Charged Blade: Ralf Ziegler's gift to melee strikers. Sporting a staggering base Threat of 2, a massive 3d6+4 Energy damage profile, the AP tag AND Knockback 2, the TCB is a formidable weapon that you should typically be aiming to swing as much as possible. It almost immediately gets autostabbed- it has no shortage of damage, it merely needs to hit. Knockback 2 allows you to break pesky grapples, clear zones and perform "Tippers". Apparantly, TCB is also an anti-tank sword- the knockback 2 can turn the armored face of an MBT away from you before dealing damage. 
 - Shotgun: While powercrept hard by DSAS, the honorable GMS Shotgun is a functional weapon. You can use it. 
@@ -163,7 +163,7 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 - Blinkspace Tunneler: Blink Charge's smaller brother, Tunneler allows you to lay down a portal for allies to follow you- useful for if you decide to dive to where allies are otherwise unable to reach you.
 
 ## Killing Intention (Strategy)
-![Zheng Is Coming Euro](/img/zheng_is_coming_euro.png/)  
+![Zheng Is Coming Euro](/img/zheng_is_coming_euro.png)  
 *silly meme by @euroliis on discord*
 
 So, how do you play this build? It's easy to say "dive," but how do you dive without eating shit?
