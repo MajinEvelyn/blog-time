@@ -75,6 +75,7 @@ eHP: Effective HP.
 ![Tablecloth](/img/tablecloth.png)  
 
 ## Crashing Antarctic (Frame Overview)
+![Zheng Sigma](/img/zheng_sigma.png/)  
 ### Stats
 The Zheng is an exceptionally well-statted frame for its purpose as a striker. It spares no budget for stats and is nestled cleanly in IPS-N to pick up Reinforced Frame to further improve its bulk. Lackluster tech/controller stats, but you weren't taking those actions anyways (unless…). Notable stats are as follows.
 - 10 HP / 2 Armor: Spectacular durability, even for an IPS-N frame. Allows you to comfortably invest in Agility for speed without compromising durability, especially with Reinforced Frame.
@@ -162,6 +163,9 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 - Blinkspace Tunneler: Blink Charge's smaller brother, Tunneler allows you to lay down a portal for allies to follow you- useful for if you decide to dive to where allies are otherwise unable to reach you.
 
 ## Killing Intention (Strategy)
+![Zheng Is Coming Euro](/img/zheng_is_coming_euro/)  
+*silly meme by @euroliis on discord*
+
 So, how do you play this build? It's easy to say "dive," but how do you dive without eating shit?
 ### Play with your Team!
 You are not alone. You have a team. Make sure that when you make plays, your team can follow up- and make sure that you can follow up to your teammates plays too.
