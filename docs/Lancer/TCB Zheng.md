@@ -74,9 +74,10 @@ The Zheng is an exceptionally well-statted frame for its purpose as a striker. I
 - 9 Evasion: Above average Evasion that becomes more relevant when cover is factored in. Even a little bit of Agility goes a long way. 
 - 3 Speed: This is a fake number. This represents half of the Zheng's speed- it makes Boosting and Pankrati 2 much weaker on this frame as a result. Note that you don't lose movement to engagement until you start spending it, so using this after becoming engaged from Xiaoli's Tenacity movement can still be done! 
 - 6 Repair Cap: The highest base repcap of any frame that isn’t Lancaster, tied with Tortuga. Allows you to get away with lower Hull investment. 
-- Main-Main-Heavy Mount: Adequate mounting for most striker purposes, though auxiliary weapons are troublesome outside of core bonuses. 
+- Main-Main-Heavy Mount: Adequate mounting for most striker purposes, though auxiliary weapons are troublesome outside of core bonuses.
+
 ### Traits
-1. DESTRUCTIVE SWINGS: At the end of the Zheng’s turn, if it made at least one melee attack against a hostile character, the force of its swings creates a SIZE 1 piece of terrain that grants hard cover in a free, adjacent space. It has 10 HP and EVASION 5. 
+DESTRUCTIVE SWINGS: At the end of the Zheng’s turn, if it made at least one melee attack against a hostile character, the force of its swings creates a SIZE 1 piece of terrain that grants hard cover in a free, adjacent space. It has 10 HP and EVASION 5. 
 	- Destructive Swings is a potent frame-trait that encourages it to make, well, melee attacks. The easiest way to use this is to plant it between yourself and ranged enemies to generate Hard Cover, but it can also be used to block out chokepoints and enable its core passive. 
 2. WEAK COMPUTER: The Zheng takes +1 Difficulty on all systems saves and checks.
 	- Not much to say here other than the fact that it’s inconvenient if/when it comes up. Don’t bother with trying to shore up your systems- instead, try positioning such that the actions that prompt you to roll these can’t target you.
@@ -102,12 +103,15 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 #### Nelson License
 - Bulwark Mods: Cheap, effective and useful as an ablative. As a melee striker, mobility is necessary! Consider picking this up.
 - Thermal Charges: Limited 3, +1d6 Bonus Damage on a melee weapon. Goes on the TCB and gets used to rip through heavier targets.
+
 #### Tortuga License
 - Decksweeper Automatic Shotgun: Threat 3, Range 3, 2d6 Kinetic. Inaccurate is cancelled out by Vanguard 1, and proves to be an excellent threat to hold up off-turn with Vanguard 3. Do try to avoid Engagement while using this.
 #### Vlad License
 - Impaler Nailgun: An alternate weapon to DSAS, Nailgun offers heat-generation and an Immobilize on-hit to armbar pesky melee NPCs- though Zheng's lackluster save target and poor e-defense make it a little riskier to use. Heat fuels Nuccav, though, so it's worth considering.
+
 #### Caliban License
 - Supermassive Mod: A cheap mod that can be tossed onto your CQB or your TCB. The heat from Overkill is risky- but the Knockback can prove to be useful, especially with Vanguard 3's ability to interrupt a turn. 
+
 #### Zheng License
 - Total Strength Suite I: Throw a rock. As amusing as it is, TSS1 is a powerful system that allows you to deal kb1, 1d6 and place a rock anywhere adjacent to the person you just threw the rock at. This allows you to subsequently Tenacity that rock for free damage. Great for granular repositioning and always a fun system to use. Did you know that it doesn't have the Unique tag? You can run 2 of them- activating each of them individually doesn't count as duplicating actions. Solid action to use while Jammed or while dealing with targets that have features that would make attacks automatically miss.
 - Molten Wreathe: Put simply- diet thermal charges. As it is omnidirectional, making use of the TCB's Kb2 to place the target into an opportune place before directing the cone into less armored targets. Outpaced by Thermal Charges- but still a useful source of extra damage early on. Note that it happens in a separate instance- so it's effected by armor and doesn't deal damage to anything with 2 or more armor (including yourself!) 
@@ -116,10 +120,13 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 #### Dusk Wing License
 - Flickerfield Projector: Free invis, 1/round. Low cost. Try keeping a little reminder on your screen while using it- a lot of people forget if/when they have FFP.
 - Stuncrown: As a diver, Zheng positions to catch multiple people in Backswing Cut range (threat 2)- which also conveniently places it in a space to use Stuncrown to Impair and Jam nearby foes. Sequencing the Systems Save for Impair to happen BEFORE the Agility save for Jam is generally the correct way to go about using this system.
+
 #### Mourning Cloak License
 - Singularity Motivator: 1/round teleport when you get hit. Useful for dodging multi-attacks at higher tiers and especially useful with a Sunzi ally- but otherwise a bit underwhelming. 
+
 #### Swallowtail License
 - Lotus Projector: A drone that strips invisibility. Useful for when you encounter invisible enemies- overcharge to deploy and barrage with the TCB. Note that you can then do a cheeky Backswing into the drone- as it's invisible, if you lose the coinflip, you can reroll the Backswing into the main target. 
+
 #### Atlas License
 - Jager Kunst I: Richochet off Size 2 and bigger objects. Situationally useful, but generally not necessary. If you can somehow get your Zheng to be a Size 1/2 mech, this system becomes incredibly busted. For ethical reasons, I do not endorse any method to make a Zheng size 1/2. 
 - Jager Kunst II: A neat system that allows you to challenge someone to a stat-check duel. Winning it nets you some damage, knockback and movement- movement that you can specifically use to extend backswing cut angles. Overcosted and requires you to focus one of your stats (Hull: Gyges, Agi: ATMS Ace 1/Kai Bioplating) as well as wanting Spaceborn 3 (Talent)- it's more a "cool" option than an optimal one. 
@@ -130,10 +137,13 @@ Thank you, based Xiaoli. Zheng’s core active is obnoxiously strong, turning th
 #### Saladin License
 - Flash Anchor: Flash Anchor is comedically cheap- costing you 1 SP, 2 Heat and no actions taken on-turn to completely nullify knockback, pushes and pulls on yourself or a very, very close-by ally. Allows you to dive into control zones and sit there, immovable. Did you know it also gives immunity to the things it prevents in the first place, too?
 - Paracausal Mod: Obliterate that twink! By tossing 3 LLs into the Saladin License, you can pick up a SP-hungry mod that makes the TCB irreducible. No more worries about Point Defense Shield, Capacitor Discharge, Hunker Down, Squads, Ablative Plating, etc, etc. Long list of Resistances that you can elect to simply ignore. 
+
 #### Napoleon License
 - Blinkshield: This is not a "good" system on TCB Zheng- that is to say, using it here isn't anything unique. It's a full action that creates an impenetrable dome around you, completely locking down a sector of the map. Useful both as a zone lock-out or as a thunderdome. Use your superior mobility to plant it down where you want it and watch the GM try to interact with it (they can't).
+
 #### Sherman License
 - RSU: Stabilize as a Quick. Arguably one of the best selfish systems in the game, TCB Zheng is no exception to Shermanization. Overcharging to RSU to clear a condition allows you to keep swinging the TCB even if you get Jammed or Immobilized.
+
 ### Sunzi License
 - Blink Charge: Blink Charge, specifically Warp Grenade, is an extremely potent positioning tool. Covering a staggering Blast 3, word of Tom says it effects all chararacters in the zone, allowing you to move yourself, allies and enemies into optimal positions for sitrep play, backswing and tenacity angles, etc, etc. The mine is somewhat mediocre on Zheng but still technically usable. 
 - Blinkspace Tunneler: Blink Charge's smaller brother, Tunneler allows you to lay down a portal for allies to follow you- useful for if you decide to dive to where allies are otherwise unable to reach you. 
@@ -192,14 +202,17 @@ Placing yourself in the correct position to exploit Destructive Swings and Xiaol
 - Auto-Stabilizing Hardpoints: This is the #1 core bonus and is basically required. Take this as early as possible (LL3). Bumps up chance to hit sizably and improves crit-chance, which becomes relevant with the large damage dice count and WAC.
 - Overpower Caliber: Adds +1d6 1/round to the TCB. Solid choice, but not exceptional. 
 - Integrated Weapon: Tape on a tacknife or another aux melee of choice to Backswing Lunge. Stylish and functional!
+
 #### IPS-N
 - Reinforced Frame: +5 HP represents approximately +2.5 Hull worth of HP, which means you can take some points out of hull and put it into Agi or Engi. 2 hull + Reinforced Frame puts you at comfortable bulk for LL6. Recommended core bonus. 
 - Sloped Plating: +1 Armor is conditionally useful. Great if you're eating many instances of damage that isn't AP. Only beats Reinforced frame if you take 6 or more instances of non-AP damage per-structure. Oh, and if you don't get shredded. 
 - Gyges Frame: Gougar! +1 Threat for the TCB markedly increases Backswing positions, and +1 hull allows you to play a little bit more riskily around save or suck effects. 
+
 #### SSC
 - ATMS: Costing less heat and less SP than GMS Type-1, ATMS is the signature second core bonus of "Hoagiefest" Zheng. Dip Ace 1 with flight for free accuracy on agility and a neat little repositioning reaction. 
 - FSS: +2 Evasion is useful on a frame with higher than average evasion, though it's only a marginal benefit unless you have a lot of agility already. Neat pick.
 - KBP: Accuracy on Agility checks for presumably JK2 and the ability to run on walls. Mobility is useful on Zheng, but KBP is a little overcosted. Neat if you want to have cool jumps, but definitely worse than ATMS.  
+
 #### HA
 - SBD: +2 heatcap and immunity to impair. Ensures that the TCB swings at +1 at almost all times and gives you extra heat to pad your horrible e-defense with. Recommended core bonus. 
 - HCS: Never reach the giant overcharge die. Works for OC hungry players who want to take an extra quick often- though TCB is generally enough and overcharging is usually only an urgent option.
@@ -210,6 +223,7 @@ These talents are what I consider to be absolutely necessary for the build.
 - Vanguard 3: You can't overwatch with a superheavy, and you can't shoot your third mount without overcharging most of the time. What you do instead is simple: mount a main CQB of your choice on the third mount and use Vanguard 3 to fire it when someone decides to move near you- which should be reasonably often if you're playing up close and personal.
 - Executioner 1/3: Executioner is the talent for the big ticket weapon, GMS Tempest Charged Blade. Chip damage from Wide Arc Cleave and Xiaoli’s Ingenuity allow Backswing Cut to tear through squishier NPCs. No Escape specifically enables some shenanigans involving Lotus Projector and missing the attack to Backswing into the original target, though it’s also just generally good for ensuring you hit *something.*
 - Pankrati 2: As a diver, you need to get up close. Pankrati 2 gives you a 1/scene free action "double boost" that slows the enemies you end adjacent to- the accuracy is generally superfluous, but the mobility enables you to hit enemies fast and hard. Try using it to conserve your Xiaoli's Tenacity and use the rock-explosion effect after you get close for more damage. Prone characters are considered slowed, so Pankrati 1 does give +2 accuracy on melee attacks against them. 
+
 #### Solid Talents
 These talents are what I have found to be good- but not necessary.
 - Nuclear Cavalier 2-3: Bonus damage for danger zone. FRG is a great overwatch weapon, allowing you to shoulder overcharges or hostile heatgunning. 
@@ -218,6 +232,7 @@ These talents are what I have found to be good- but not necessary.
 - Infiltrator 1: Hiding is somewhat a slow action- but Infiltrator 1 allows you to pass through hostile characters- no hiding requires for this effect. You can cross-up someone with Tenacity and get some surprising angles for backswing- though these plays usually involve getting Overwatched.
 - Skirmisher 3: Weave allows you to dodge a reaction attack 1/round, which allows you to wade through Overwatches. Lockbreaker enables a bit of repositioning when you get a DSAS overwatch, but the main draw of this talent tree is Weave. 
 - Spaceborn 2: Zheng's poor base speed is a boon with Prone- you can still tenacity after clearing prone. Spaceborn 2 makes you lose very little mobility to Prone, and allows you to fine tune incoming knockback to suit your need. Excellent for frontliners in general- and Zheng is no exception.
+
 #### Situational Talents
 These talents are for specific builds/gear choices.
 - Ace 1: Free accuracy and mobility for Hoagiefest, otherwise useless.
@@ -258,7 +273,9 @@ TCB Zheng is not playable at LL0-1, so we'll be playing a similar TCB Sagarmatha
 A generic TCB Sagarmatha. We elect to pick the Size 2 because it covers more space for threat with the shotgun and TCB, and have taken Executioner 1 to make the most of it. Note that most of the power of this talent is concentrated in the first level- so we won't cap it out until later.
 ### LL1  
 Respec: Prospector 1 -> Pankrati 1
+
 Gain: Tortuga 1, DSAS, Pankrati 2, +1 Engi
+
 Lose: Prospector 1, GMS Shotgun 
 ```
 -- GMS Sagarmatha @ LL1 --
