@@ -20,7 +20,10 @@ Editor: Majin Evelyn
 What the fuck is up with Zheng, anyways? And why do some of the people who play it speak in tongues when discussing the frame?
 ```
 ## Introduction
-Hi! I'm shep (she/they), and I am normal about Lancer. I can't help you with the previous question- but I can help you with playing the Zheng- specifically a variation of TCB Zheng I call 'Snow on the Sand.' This guide is about that build- a formidable melee dive-striker that's a great addition to any team that needs burst damage and frontline presence. For some context, I have almost 200 hours playing the Zheng (estimated), a large portion of which has been spent playing the TCB variant, across the Hearth-7 Westmarch, house-games, pickup games online, etc. This guide covers terminology, the frame, equipment and strategies first before diving into an example corebook respec-compliant build. The last section contains variant builds for LL6, LL9 and LL12. 
+Hi! I'm shep (she/they), and I am normal about Lancer. I can't help you with the previous question- but I can help you with playing the Zheng- specifically a variation of TCB Zheng I call 'Snow on the Sand.' This guide is about that build- a formidable melee dive-striker that's a great addition to any team that needs burst damage and frontline presence. For some context, I have almost 200 hours playing the Zheng (estimated), a large portion of which has been spent playing the TCB variant, across the Hearth-7 Westmarch, house-games, pickup games online, etc. This guide covers terminology, the frame, equipment and strategies first before diving into an example corebook respec-compliant build. The last section contains variant builds for LL6, LL9 and LL12.  
+![Snow On The Sand](/img/snow_on_the_sand-shotgun)  
+*Art Credits:* Snow on the Sand by shep (@hyponumangel) - [bsky](https://bsky.app/profile/hyponumangel.bsky.social), includes [Retrograde Minis](https://www.retrogrademinis.com/) assets  
+
 ## Terminology
 Ablative: Refers to a cheap, low cost system/weapon that can be destroyed in the event of System Trauma without significantly impacting the build. 
 AP: Armor Piercing (tag)
@@ -67,7 +70,10 @@ WAC: Wide-Arc Cleave, rank 2 of the Executioner Talent.
 Xiaolijuggle: Using the knockback of Xiaoli's Tenacity to knock an enemy adjacent to another destructible piece of terrain.
 eHP: Effective HP.
 ## Diagrams
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSauqcH2Wf9U7_jF1GCt8RgZM6_8uM0mTJNuT3s-wdGBestcsppiX-qFUClk2_phw4BleAvxB1Trn8PWhss45UAPJyP1X3ZDYbAakum92ruoX8i7FkPF3u8sck0033aIoEGzxarg?key=ELZGNvvok8dwzS2E7DSggiUf)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9DWCJUNFrl8uS0AXFo8MvzOAkXyvBO81A7lkwANExWO4L0leVUqSwe5gQ28CPWfywtjZLaRCBkxJ_uv8SDiz4OFoWj9rcQje4vX-qPAsFq_Tbr-EpK0KWa-dSQND20QyGWRFY6g?key=ELZGNvvok8dwzS2E7DSggiUf)
+![Downsmash](/img/downsmash.png)  
+![Zheng Technique](/img/zheng_technique)  
+![Tablecloth](/img/tablecloth)  
+
 ## Crashing Antarctic (Frame Overview)
 ### Stats
 The Zheng is an exceptionally well-statted frame for its purpose as a striker. It spares no budget for stats and is nestled cleanly in IPS-N to pick up Reinforced Frame to further improve its bulk. Lackluster tech/controller stats, but you weren't taking those actions anyways (unless…). Notable stats are as follows.
