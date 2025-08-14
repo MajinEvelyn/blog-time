@@ -11,5 +11,5 @@ We will be following the Core Rulebook's rules for "Reallocating Points," outlin
 Every time your pilot’s LL increases, you also have the option to choose one: 
 - Reallocate all ranks from one of your talents to any other talent. 
 - Reallocate all ranks from one of your licenses to any other license. 
-- Replace one core bonus with another core bonus for which your pilot qualifies.
+- Replace one core bonus with another core bonus for which your pilot qualifies. 
 If reallocating ranks from one license to another means your pilot no longer qualifies for a core bonus, you must replace that core bonus with one you now qualify for.
