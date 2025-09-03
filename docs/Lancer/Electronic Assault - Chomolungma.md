@@ -6,8 +6,15 @@ parent: Lancer
 ---
 # Electronic Assault - Chomolungma  
 Author: Majin Evelyn   
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
+
 ## Introduction
 Chomolungma is an incredibly versatile GMS frame, with many built in tools that lend to being primarily a Controller.
 - Premium 15 sensors, +1 Tech Attack, and 11 Save Target stat line for controllers
