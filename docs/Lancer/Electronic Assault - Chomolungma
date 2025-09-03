@@ -16,8 +16,8 @@ Chomolungma is an incredibly versatile GMS frame, with many built in tools that 
 - Wide Area Code Pulse is one of the strongest Core Actives in the game, delivering invades to *every* enemy within sensors, even ignoring Invisible and applying Impair if any of the attacks miss
 - Main/aux + flex mounts that are flexible and ideal for controllers, even allowing for the Chomolungma to deal respectable damage if built for it  
 There are many very strong ways to build Chomolungma, but this build will aim for versatility in its tools. Notably we opt for an Assault Cannon with Overpower Caliber to deal respectable damage with a skirmish, comparable to a Heavy Machine Gun with Auto-Stabilizing Hardpoints. As many control tools as you have, often it can be very helpful to clean up kills your Strikers have gotten low. Turret Drones also do this to a degree, contributing a few extra points of damage when an ally hits an enemy.
-![[cuntmolungma.png]]
-![[shitbox_turret.png]]
+![cuntmolungma](/img/cuntmolungma.png)  
+![shitbox_turret](/img/shitbox_turret.png)  
 *Art Credits:* Cuntmolungma and Shitbox Turret by shep (@hyponumangel) - [bsky](https://bsky.app/profile/hyponumangel.bsky.social), includes [Retrograde Minis](https://www.retrogrademinis.com/) assets
 
 ## Article Format
@@ -36,7 +36,7 @@ As this build will use the same frame and maintain a few other core tools for it
 
 [Chomolungma Spreadsheet](https://docs.google.com/spreadsheets/d/1msHMFGoVoXe6utkqJyKccnrQXuRIIA_Jkrh8Z-p_hC0/edit?usp=sharing)
 
-![[spreadsheet preview.png]]
+![spreadsheet preview](/img/spreadsheet preview.png)
 *NPC Stats tab made by @euroliis on discord*  
 *NPC Target Priority tab majorly based on a similar spreadsheet made by @nihxen on discord*  
 
@@ -58,14 +58,13 @@ Blink Charges - When used as Warp Grenades, these are an exceptionally powerful 
 Warp Grenades also confer a nefarious, hostile purpose though: Rearranging enemies within that same Blast 3. You can move enemies to one side of the blast, and your allies to the other, putting a lot of space in between to deny effective actions. You can move multiple enemies off of an objective or objective zone, and allies onto it for scoring purposes. Enemies can be teleported out of engagement with allies, saving them from otherwise being hit with hostile Overwatch attacks. Since you get to resolve simultaneous effects in whichever order you choose, you can also see if enemies fail their Engineering save first before you decide where to position allies.
 
 These Grenades *are* Limited, but even the value we get from the 4 we'll have at LL2 is massive.
-![[Blinkspector.png]]
+![Blinkspector](/img/Blinkspector.png)  
 The above screenshot represents a common scenario and series of options for round 1 of many combats with this build. 
 1. Coordinating with our allies to group up within the Player Deployment zone to Position 1, we throw a Warp Grenade as a Quick Action, centered on the white X. The Blue Blast 3's are our Warp Grenade Blasts. We reposition ourselves and allies slightly on the opposite end of the Warp Grenade to Position 2.
 2. Create Entrance with the Prospector Talent at Position 2, going to Position 3. The Green areas are our Entrance burst zones. If we have Prospector 2, our size 1 or smaller allies can immediately follow us to Position 3.
-3. If we want to move ourselves and/or our allies further, we can Overcharge for a second Warp Grenade, centered on the white X. We can move from Position 3 to Position 4 or 5, depending on if we want height or cover.
+3. If we want to move ourselves and/or our allies further, we can Overcharge for a second Warp Grenade, centered on the white X. We can move from Position 3 to Position 4 or 5, depending on if we want height or cover.  
 
-![toestep]
-![[toestep.png]]
+![toestep](/img/toestep.png)  
 
 If you have size 2 or 3 allies in your party, you don't have to include all hexes they occupy for the start or end of the Warp Grenade teleportation. So at Position 1, you only include their right-most hex, and at Position 2 you only include their left-most hex. In this way, you can give them some additional value and movement.
 
