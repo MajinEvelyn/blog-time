@@ -1,7 +1,7 @@
 ---
 title: Snow on the Sand - TCB Zheng
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Lancer
 ---
 
