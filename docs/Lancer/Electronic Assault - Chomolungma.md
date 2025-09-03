@@ -31,6 +31,7 @@ Every time your pilot’s LL increases, you also have the option to choose one:
 - Reallocate all ranks from one of your licenses to any other license. 
 - Replace one core bonus with another core bonus for which your pilot qualifies.  
 If reallocating ranks from one license to another means your pilot no longer qualifies for a core bonus, you must replace that core bonus with one you now qualify for.
+
 ## Strategy
 As this build will use the same frame and maintain a few other core tools for its whole progression, we will review those here in the introduction. Each new level we’ll briefly explain the new additions, and every 3 levels will contain another overview of how the strategy comes together. Additionally, the below spreadsheet can be used to help keep track of important tools, resources, and actions available for this build. There are tabs for License Levels 3, 6, 9, and 12, as well as a tab to help you make decisions about dealing with various NPC classes, and another tab as a NPC stat reminder.
 
@@ -530,7 +531,7 @@ Lose: None
 ### LL12
 Respec: IPS-N Nelson 1 -> HA Saladin 1  
 Gain: HA Saladin 2, Universal Compatibility, Nuclear Cavalier 3, +1 HULL, Flash Anchor  
-Lose: None 
+Lose: Bulwark Mods   
 ```
 -- GMS Chomolungma @ LL12 --
 [ LICENSES ]
