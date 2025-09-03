@@ -1,5 +1,10 @@
-
-# Chomolungma - Electronic Assault
+---
+title: Electronic Assault - Chomolungma
+layout: default
+nav_order: 1
+parent: Lancer
+---
+# Electronic Assault - Chomolungma
 Author: Majin Evelyn   
 ## Introduction
 Chomolungma is an incredibly versatile GMS frame, with many built in tools that lend to being primarily a Controller.
