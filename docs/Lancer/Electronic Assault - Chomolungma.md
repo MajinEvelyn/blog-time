@@ -5,6 +5,7 @@ nav_order: 1
 parent: Lancer
 ---
 # Electronic Assault - Chomolungma  
+{: .no_toc }  
 Author: Majin Evelyn   
 <details open markdown="block">
   <summary>
@@ -36,6 +37,7 @@ This article will cover every License Level from 0 to 12, and will include strat
 Additionally, we will be following the Core Rulebook's rules for "Reallocating Points" as described below. In my experience, many tables are less restrictive with "respecs" than these rules describe, but for the sake of this article we will be using these rules to be as helpful to as many players as possible in campaigns.
 
 ### REALLOCATING POINTS 
+{: .no_toc }  
 Every time your pilot’s LL increases, you also have the option to choose one:  
 - Reallocate all ranks from one of your talents to any other talent. 
 - Reallocate all ranks from one of your licenses to any other license. 
@@ -53,6 +55,7 @@ As this build will use the same frame and maintain a few other core tools for it
 *NPC Target Priority tab majorly based on a similar spreadsheet made by @nihxen on discord*  
 
 ### Control
+{: .no_toc }  
 On many turns you will be taking a Quick Tech action to Invade a target, or a Full Tech to Invade two targets. You have 3 Invade options at LL0, and 5 from LL1 and beyond.  
 - Fragment Signal - Despite being the basic invade available to all builds, Impair and Slow can actually deny enemy actions in a lot of situations. Especially when combined with other tools from you or your team that Prone such as Jager Rounds from Walking Armory, or Balance Control Lockout
 - Balance Control Lockout - Similar to Puppet Systems, this forces 2 spaces of movement for the target. It then knocks them Prone, or Immobilizes them if they're already Prone. Depending on the situation, this option has the potential to deny a lot of enemy actions, especially for melee/short range NPCs. Even the Prone option without any additional control being applied can significantly reduce an NPC's options. You put them effectively 2 + [Their Speed] away from where they want to go, on top of the accuracy that Prone provides to your team. On this build, Jager Rounds from Walking Armory will be your main way to apply prone yourself, giving you an opportunistic way to Immobilize a target should they fail the Saving Throw against prone. When a target is Immobilized, they can't stand up from prone, effectively extending the control against their movement for another turn.
@@ -61,8 +64,10 @@ On many turns you will be taking a Quick Tech action to Invade a target, or a Fu
 - Eject Power Cores - This will often be your default invade option, as Jammed is an effective control option against most NPCs in the game. It turns off most strong actions targets will have, which is why this effect is limited to once per scene, per target. Notably, if other pilots in your party also have this Invade option, they have a separate limit per scene, allowing you to chain Jammed against scary targets. Despite its strength, this does not stop the target from moving, which may be more important when trying to control objectives. Use Balance Control Lockout, Puppet Systems or Warp Grenades in such cases.
 One of your frame traits, Brilliance, will allow you to Invade or take most other Quick Actions on this build as a free action, once per scene. This can be combined with Overcharge for a particular effective "Nova" turn, applying a large amount of control all at once when needed. Brilliance even lets you apply Lock-On, making your Assault Cannon or next Invade shoot at +1 accuracy, or enabling Drone Commander 2 for your build later on.
 
-Chomolungma's Core Active is immensely powerful, letting you Invade everything within your sensor range, regardless of Line of Sight or Invisibility. This can easily affect all enemy NPCs on a map, with proper positioning. Even if these attacks miss, the targets are Impaired anyway. For the round that you use Wide Area Code Pulse, your party will undeniably have a massive advantage over the enemy forces, possibly swinging the whole encounter in your favor. Any teammates using the Leader talent can give you accuracy on all of these attacks, as it is one action. 
+Chomolungma's Core Active is immensely powerful, letting you Invade everything within your sensor range, regardless of Line of Sight or Invisibility. This can easily affect all enemy NPCs on a map, with proper positioning. Even if these attacks miss, the targets are Impaired anyway. For the round that you use Wide Area Code Pulse, your party will undeniably have a massive advantage over the enemy forces, possibly swinging the whole encounter in your favor. Any teammates using the Leader talent can give you accuracy on all of these attacks, as it is one action.  
+
 ### Movement
+{: .no_toc }  
 **Prospector -** Creating reusable tunnels for yourself and allies is a very efficient movement tool. With just Prospector 1, you get a slightly better boost for yourself, along with giving your Size 1/2 or 1 allies effectively 7 movement, if they go edge to edge within the blast. This action is typically most effective to take on the first activation of the first round of combat, since your allies can plan to be adjacent to you to use the tunnel anyway. For 5 levels of this progression, we'll also have Prospector 2 and 3. This will let our allies immediately use the tunnels as a reaction, as well as allow us to make another pair of tunnels, which are all connected.
 
 Blink Charges - When used as Warp Grenades, these are an exceptionally powerful movement and dispution tool. In combination with Prospector 3, you can move you and your whole team *very* far across the map in one turn. Often useful on the first round of combat, Warp Grenades can gather up your allies next to you, followed by a Prospector tunnel that your allies can immediately follow. Because the blast 3 extends vertically, you can also use it to position you and your team on top of terrain without having to use flight or climbing.
@@ -81,6 +86,7 @@ The above screenshot represents a common scenario and series of options for roun
 If you have size 2 or 3 allies in your party, you don't have to include all hexes they occupy for the start or end of the Warp Grenade teleportation. So at Position 1, you only include their right-most hex, and at Position 2 you only include their left-most hex. In this way, you can give them some additional value and movement.
 
 ### Damage
+{: .no_toc }  
 As a Chomolungma, we don't have a Heavy mount or a damage trait, so our primary role will not be to deal damage. However, we can make some investments to make our Main/Aux mount quite respectable to Skirmish with. Until LL3, we use an Assault Rifle/Nexus (Light) mount when we need to finish off a target. Our second mount will have two Missile Racks in it until LL6. The intent here is to only ever fire them once per scene, if at all, and never reload them. They can be helpful to deal with Squads, or to capitalize on a few grouped up enemies. I don't recommend ever Barraging on this build, as while a Skirmish here and there may be useful to finish off a target, a Barrage is an overcommitment when we have so many other powerful options available to us. While our Brilliance trait doesn't let us Skirmish as a Free Action like the Everest's Initiative trait, it does give us a free Lock On, which we can then consume with a Skirmish to increase our effective damage output.
 
 We also have Turret Drones until LL8, which can be used to finish off targets your allies hit. It simply deals an extra 3 damage, no rolling to hit required. It's best to deploy one on your first or second round of combat, and use Drone Commander 1's Shepherd Drone protocol to move it with you as you move through the map. The reaction is once per round, per drone, so if you have 2 on the field you can use the reaction for 2 separate attacks made by allies on different turns. 
@@ -196,6 +202,7 @@ Lose: Assault Rifle
 **Empath 2 -** This can prevent an ally from becoming Stunned or having their mech instantly destroyed due to the Direct Hit result from Structure Damage. This is 1/scene, but that alone can be very important insurance to prevent a total mission loss. In harder missions, I would say that this a must for at least one person in the party, but if you want a more selfish option consider Skirmisher 2.  
 
 #### Strategy
+{: .no_toc }  
 The core of the build is here now, with H0R_OS 1, Blink Charges, and Assault Cannon. At the start of combat, you will want to help move your team forward with Prospector and Warp Grenades. You can save your second use of Prospector until later in the combat, so that you and your allies can tunnel back towards Player Deployment, or just to move them further forward again. If you can afford to, placing a Turret Drone on the first or second round of combat is also good value, as it will likely live for the whole combat and help allies finish off targets. Don't forget to use the Shepherd Drone protocol to move it with you.
 
 As a controller, you will often be invading enemies at least once on each of your turns. Eject Power Cores will be your default Invade option that you'll rotate between different enemies, since it can only Jam enemies once per scene. Your Assault Cannon is a finisher tool for already weakened targets, or as a filler option when you don't have a better quick action to take. While you do have a solid Skirmish on this build, you are not a Striker, and don't need to shoot something every turn.
@@ -283,6 +290,7 @@ Lose: Prospector 3, Missile Racks x2, Type-3 Projected Shield
 **Vanguard 3 -** We give up Prospector 3 for this (keeping Prospector 1), but it's well worth the threat of a Nailgun Overwatch when an enemy moves within 3 spaces of you.  
 
 #### Strategy
+{: .no_toc }  
 On top of the core build established at LL3, you now have highly impactful off-turn pressure in the form of Impaler Nailgun, amplified by the Supermassive Mod and Jager Rounds from Walking Armory 2. Keep in mind you have 7 charges of Ammo Case. Typically this means you'll have 3 uses of Jager Rounds for your Impaler Nailgun for knockback and Prone, and 1 use of Mag Rounds for your Assault Cannon for Arcing. Even without Jager Rounds, a Supermassive Impaler Nailgun Overwatch can be very debilitating, so try to be judicious with when you use Jager Rounds if your Overwatch is getting triggered often.  
 
 Your on-turn actions and rollout options are the same as before, now amplified by one of the best off-turn threats in the game. In exchange for this, we only have Prospector 1 instead of Prospector 3 now, but that just means that it is almost entirely a rollout tool of roughly the same value. 
@@ -367,6 +375,7 @@ Lose: EVA Module, Supermassive Mod
 **Walking Armory 3 -** Effectively gives us 30-47.6% more Walking Armory Charges on average, since that's our crit chance at this level with 0 and 1 Accuracy respectively. Our Impaler Nailgun will typically shoot at +1 Accuracy, while our Assault Cannon will fire at 0 usually. Especially over the course of a few scenes, this can mean Jager Rounds is much more spammable on many of your attacks, especially Nailgun Overwatches. As we gain more levels and therefore more Grit and crit chance, this talent level continues to gain more value.
 
 #### Strategy
+{: .no_toc }  
 Our two new tools are Shahnameh to support our allies and help them clear heat, and Redundant Systems Upgrade to keep ourselves alive. These two systems are limited, but we'll get an extra use across multiple scenes thanks to Grease Monkey 3. With 4 points in Engineering and Grease Monkey 3, we can use Blink Charges and Shahnameh quite liberally. 
 
 We now have such a wide variety of options in our toolbox to fit many situations.
@@ -458,6 +467,7 @@ Lose: EVA Module
 **Emergency Repair Module -** While Bracing is a significant reduction in the actions we can take on our following turn, ERM makes this much more efficient. You still want to use this sparingly, and only do it when it would prevent structure and heal a lot of your HP.
 
 #### Strategy
+{: .no_toc }  
 All of our new tools are passive or reactive. Nuclear Cavalier 2 boosts our damage passively, but Nuclear Cavalier 3 can be used to clear heat with Vanguard 3. Flash Anchor can deny forced movement against you or an ally as a reaction. Emergency Repair Module can save you from an otherwise lethal scenario by Bracing as a reaction. Normally, you don't want to Brace at all, but Emergency Repair Module is efficient enough to make it worth the cost.
 
 We continue to Support our team, and strategically apply Control or damage to enemies where appropriate, while moving ourselves and our team efficiently across the map.
@@ -566,10 +576,11 @@ Lose: Bulwark Mods
 ```
 
 #### Strategy
+{: .no_toc }  
 This build trades the Support and Damage functionality of the primary path to fixate strongly on Control. Starting at LL10, we have everything we could want to make Smite work: bulk from Reinforced Frame and Hardpoint Reinforcement, survivability and HP gain from Redundant Systems Unit, and high Save Target from The Lesson of the Open Door. We've given up on Overpower Caliber to better support Smite as a central option on-turn, and with it Damage is realistically no longer a central function of this build. This also means that you realistically do not have many ways to deal with high E-Defense enemies, and will have to rely on your allies for that. Just like the main build path, we still have Flash Anchor to help our allies, as well as Nuclear Cavalier 3 to clear heat as a reaction with Vanguard 3. Universal Compatibility will help our Wide Area Code Pulse out by healing any HP lost from Smite and clearing heat at the same time.  
 
-You'll still be supporting your team and controlling with Blink Charges and Prospector, but you're more often going to Full Tech for 2 invades with this Smite build. You will often have Smite or Eject Power Cores available for some enemies in range, and your damage isn't going to be particularly impactful, making Full Tech much more appealing.
-# Conclusion
+You'll still be supporting your team and controlling with Blink Charges and Prospector, but you're more often going to Full Tech for 2 invades with this Smite build. You will often have Smite or Eject Power Cores available for some enemies in range, and your damage isn't going to be particularly impactful, making Full Tech much more appealing.  
+## Conclusion
 The Chomolungma has shown to be a powerful hybrid at all points in progression, with the capacity to specialize into Damage, Support, Movement, or even more Control on top of its base Control kit. This particular build aims to give the player a toolbox of options to select from to handle practically any situation thrown at it, with the survivability to deal with unexpected outcomes. The variant builds taking Smite at LL9 specializes more into control, giving up some other options in the toolbox, but still has many tools to choose from. While the Chomolungma can be built many powerful ways, I find this general use build path to perform very well across a wide variety of difficult missions.  
 
 If you have further questions about this build, feel free to ping me on Hearth-7 and I'll be happy to answer you!
