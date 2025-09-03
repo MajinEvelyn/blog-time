@@ -37,7 +37,8 @@ As this build will use the same frame and maintain a few other core tools for it
 
 [Chomolungma Spreadsheet](https://docs.google.com/spreadsheets/d/1msHMFGoVoXe6utkqJyKccnrQXuRIIA_Jkrh8Z-p_hC0/edit?usp=sharing)
 
-![spreadsheet preview](/img/spreadsheet preview.png)
+![spreadsheet preview](/img/spreadsheet preview.png)  
+*LL3-12 tabs made by Majin Evelyn*  
 *NPC Stats tab made by @euroliis on discord*  
 *NPC Target Priority tab majorly based on a similar spreadsheet made by @nihxen on discord*  
 
