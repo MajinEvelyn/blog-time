@@ -16,7 +16,8 @@ Chomolungma is an incredibly versatile GMS frame, with many built in tools that 
 - Every time you hit a tech attack, you Scan the target, giving you and your team more information to deal with NPC optionals and templates. Normally, scanning is not worth a quick action, but the Chomolungma does it for free as part of its typical gameplan.
 - Brilliance, giving you another invade or other tech option as a free action 1/scene (on top of a free lock on)
 - Wide Area Code Pulse is one of the strongest Core Actives in the game, delivering invades to *every* enemy within sensors, even ignoring Invisible and applying Impair if any of the attacks miss
-- Main/aux + flex mounts that are flexible and ideal for controllers, even allowing for the Chomolungma to deal respectable damage if built for it  
+- Main/aux + flex mounts that are flexible and ideal for controllers, even allowing for the Chomolungma to deal respectable damage if built for it
+
 There are many very strong ways to build Chomolungma, but this build will aim for versatility in its tools. Notably we opt for an Assault Cannon with Overpower Caliber to deal respectable damage with a skirmish, comparable to a Heavy Machine Gun with Auto-Stabilizing Hardpoints. As many control tools as you have, often it can be very helpful to clean up kills your Strikers have gotten low. Turret Drones also do this to a degree, contributing a few extra points of damage when an ally hits an enemy.
 ![cuntmolungma](/img/cuntmolungma.png)  
 ![shitbox_turret](/img/shitbox_turret.png)  
