@@ -93,6 +93,7 @@ We also have Turret Drones until LL8, which can be used to finish off targets yo
 
 ## Progression
 ### LL0
+{: .no_toc }  
 ```
 -- GMS Chomolungma @ LL0 --
 [ LICENSES ]
@@ -121,6 +122,7 @@ We also have Turret Drones until LL8, which can be used to finish off targets yo
 **Personalizations -** Unlike every other system we have equipped now, we will never part with Personalizations. 2 HP per structure is worth a Hull point and results in a pretty significant increase in your effective health. It's even destructible for Systems Down, if you really can't part with your other systems, but you will lose the HP for subsequent structures.  
 **Type-3 Projected Shield -** This only requires line of sight, so you can even impose difficulty against the sniper 30 spaces away from you. 1 heat as a protocol is a low cost to potentially save you from some important hits, so you can likely get some value out of this on most turns.  
 ### LL1
+{: .no_toc }  
 Respec: Field Analyst 1 -> Prospector 2  
 Gain: HORUS Goblin 1, Prospector 3, +1 HULL, H0R_OS System Upgrade I  
 Lose: Field Analyst 1, Armament Redundancy 
@@ -148,6 +150,7 @@ Lose: Field Analyst 1, Armament Redundancy
 **H0R_OS System Upgrade 1 -** The core Invade suite to this build. Many of your turns going forward will include an option from this suite.  
 **Prospector 3 -** We can now make a second set of tunnels, and our allies around us can immediately follow us when we make them.  
 ### LL2
+{: .no_toc }  
 Respec: None  
 Gain: HA Sunzi 1, Field Analyst 1, +1 HULL, Blink Charges  
 Lose: EVA Module, Type-3 Projected Shield
@@ -174,6 +177,7 @@ Lose: EVA Module, Type-3 Projected Shield
 
 **Blink Charges -** Warp Grenades are our premier movement option, for enemies and ourselves. This often outpaces Puppet Systems for both enemy and allied movement, as it can usually perform more than one function at once. This is further explained in great detail in the Movement section.
 ### LL3
+{: .no_toc }  
 Respec: Field Analyst 1 -> Empath 1  
 Gain: IPS-N Drake 1, Overpower Caliber, Empath 2, +1 SYS, Assault Cannon, EVA Module  
 Lose: Assault Rifle
@@ -211,6 +215,7 @@ You have an extremely powerful Core Active in Wide Area Code Pulse, but remember
 
 Don't forget about Empath 2 when allies structure, as this can save them from a Stun or mech destruction from Direct Hit.
 ### LL4
+{: .no_toc }  
 Respec: None  
 Gain: IPS-N Caliban, Walking Armory 1, +1 SYS, Supermassive Mod (Assault Cannon)  
 Lose: None
@@ -237,6 +242,7 @@ Lose: None
 **Walking Armory 1 -** Of the options here, giving our Assault Cannon Arcing can be quite useful to get around cover and maintain our own.  
 **Supermassive Mod (Assault Cannon) -** This gives our main weapon some minor knockback for no additional heat cost, sometimes useful to break engagement on your allies.  
 ### LL5
+{: .no_toc }  
 Respec: None  
 Gain: IPS-N Vlad 1, Walking Armory 2, +1 HULL, Type-3 Projected Shield  
 Lose: EVA Module
@@ -262,6 +268,7 @@ Lose: EVA Module
 ```
 **Walking Armory 2 -** We're mainly here for the Jager Rounds option, which adds knockback 2 to one of our Main weapon attacks, as well as knocking the target Prone if they fail a Hull save. With Supermassive Mod, this is Knockback 3, which is quite significant on its own as a displacement tool. If the target fails the Hull save against Prone, you can even Immobilize them with Balance Control Lockout after to deny multiple turns of movement.  
 ### LL6
+{: .no_toc }  
 Respec: Prospector 3 -> Vanguard 3  
 Gain: IPS-N Vlad 2, Reinforced Frame, Prospector 1, Vanguard 3, +1 HULL, Impaler Nailgun (Supermassive Mod), EVA Module, Armament Redundancy  
 Lose: Prospector 3, Missile Racks x2, Type-3 Projected Shield
@@ -296,6 +303,7 @@ On top of the core build established at LL3, you now have highly impactful off-t
 Your on-turn actions and rollout options are the same as before, now amplified by one of the best off-turn threats in the game. In exchange for this, we only have Prospector 1 instead of Prospector 3 now, but that just means that it is almost entirely a rollout tool of roughly the same value. 
 
 ### LL7
+{: .no_toc }  
 Respec: None  
 Gain: HA Sherman 1, Drone Commander 2, +1 SYS, Accelerate  
 Lose: EVA Module 
@@ -322,6 +330,7 @@ Lose: EVA Module
 **Drone Commander 2 -** We only keep this talent for this level, but you can trigger it easily using the free Lock On from your Brilliance trait. This is mostly here for respec purposes next level, though.  
 **Accelerate -** Quite useful on the first round of combat to move your team very far in combination with Prospector 1 and/or Warp Grenades. It even counts as a Quick Tech, which means you can use it with Brilliance to move your party extremely far. Warp Grenade, Overcharge for a second Warp Grenade, Brilliance for Accelerate, and Prospector 1 moves your team about 20-22 spaces in 1 turn.  
 ### LL8
+{: .no_toc }  
 Respec: Drone Commander 2 -> Grease Monkey 2  
 Gain: HA Sherman 2, Grease Monkey 3, +1 ENGI, Redundant Systems Upgrade  
 Lose: Turret Drones, Accelerate
@@ -348,6 +357,7 @@ Lose: Turret Drones, Accelerate
 **Redundant Systems Upgrade -** A very efficient defensive system, made even more efficient with Grease Monkey 2's effect of removing several Conditions at once. Normally, using a Full Action to Stabilize is not good for tempo and affecting enemy activations, but RSU eliminates this problem. With Grease Monkey 3's Supply Drop, you'll get 3 uses of this in longer missions with a rest in between.  
 **Grease Monkey 3 -** Grease Monkey 2 makes your Stabilize actions more efficient, including those taken as a quick action from Redundant Systems Upgrade. Grease Monkey 3 gives you and your whole team a 1/mission Supply Drop that replenishes 1 Structure and 1 charge to all of your Limited Systems. The Structure is very useful and helps your team fight attrition very well, but the extra charges of Blink Charges, RSU as well as Ammo Case (from Walking Armory) for yourself are very welcome.  
 ### LL9
+{: .no_toc }  
 Respec: IPS-N Caliban 1 -> SSC Emperor 1  
 Gain: SSC Emperor 2, Superior By Design, Walking Armory 3, +1 ENGI, Shahnameh  
 Lose: EVA Module, Supermassive Mod
@@ -386,6 +396,7 @@ We now have such a wide variety of options in our toolbox to fit many situations
 - Survivability - Redundant Systems Unit with Grease Monkey 2, Reinforced Frame, Vanguard 3 Impaler Nailgun
 
 ### LL10
+{: .no_toc }  
 Respec: None  
 Gain: IPS-N Nelson 1, Nuclear Cavalier 1, +1 SYS, Bulwark Mods  
 Lose: None
@@ -412,6 +423,7 @@ Lose: None
 **Nuclear Cavalier 1 -** Stressing enemies isn't a common goal or outcome for this build, but this talent might make that a slightly more likely thing to play around. We're mostly here for Nuclear Cavalier 2 next level.  
 **Bulwark Mods -** Sometimes lets us ignore difficult terrain, which can be useful even though Prospector and Warp Grenades effectively ignore it anyway.  
 ### LL11
+{: .no_toc }  
 Respec: IPS-N Nelson 1 -> HA Saladin 1  
 Gain: HA Saladin 2, Nuclear Cavalier 2, +1 HULL, Flash Anchor, EVA Module
 Lose: Bulwark Mods
@@ -438,6 +450,7 @@ Lose: Bulwark Mods
 **Nuclear Cavalier 2 -** We're not gunning for Danger Zone hard with this build, but when we make it there our Assault Cannon Skirmishes will be that much more threatening. Now that we have Flash Anchor, we're more likely to end up in Danger Zone. When you find yourself in Danger Zone with a good opportunity to Skirmish, I would recommend using the Lock-On from Brilliance to secure some Accuracy for it. This additional damage will help our Skirmishes keep up in damage at these later levels with higher enemy HP scaling.  
 **Flash Anchor -** For 1 SP, we get a powerful but situational tool: the capacity to simply deny forced movement against us or our party within range 15 of us. It's 1/round, and costs 2 heat, but we have the heat cap to afford it. Many NPC effects are simply negated by this system, and many of the movement/objective based sitreps can be saved.  
 ### LL12
+{: .no_toc }  
 Respec: None  
 Gain: HA Gilgamesh 1, Heatfall Coolant System, Nuclear Cavalier 3, +1 HULL, Emergency Repair Module  
 Lose: EVA Module 
@@ -475,6 +488,7 @@ We continue to Support our team, and strategically apply Control or damage to en
 ## Branching Path - Smite
 At LL9, if your team is efficiently cleaning up their own kills, you have the option to start devoting build space to Smite, another powerful invade option. You sacrifice access to Shahnameh, and delay getting Flash Anchor for this. In certain groups, or if you just want to transition into a build that leans even more controller, this is a good time to expand your repertoire. You'll get Hardpoint Reinforcements for resistance to the damage, and The Lesson of the Open Door to make it even harder to pass the Systems Save. You already have some other qualities you want on the build for Smite, namely Reinforced Frame for a bigger HP pool, and Redundant Systems Upgrade to help recover lost HP from Smiting.
 ### LL9
+{: .no_toc }  
 Respec: IPS-N Caliban 1 -> HORUS Manticore 1
 Gain: HORUS Manticore 2, The Lesson of The Open Door, Walking Armory 3, +1 ENGI, Smite, Assault Rifle
 Lose: Assault Cannon, EVA Module, Supermassive Mod 
@@ -500,6 +514,7 @@ Lose: Assault Cannon, EVA Module, Supermassive Mod
 ```
 **Smite -** At significant cost, you acquire the most powerful invade option in the game, which Stuns the target on a failed Systems save and successful tech attack hit. Like Eject Power Cores, this is limited to once per scene per target. Between these two hacks though, you should have no problem shutting down most NPCs on the map for most of their lifespan. 
 ### LL10
+{: .no_toc }  
 Respec: Overpower Caliber -> Superior By Design
 Gain: IPS-N Caliban 2, Nuclear Cavalier 1, +1 SYS, Hardpoint Reinforcement  
 Lose: Armament Redundancy
@@ -525,6 +540,7 @@ Lose: Armament Redundancy
 ```
 **Hardpoint Reinforcement -** This halves the damage we take from Smite for 2 SP.
 ### LL11
+{: .no_toc }  
 Respec: None  
 Gain: IPS-N Nelson 1, Nuclear Cavalier 2, +1 HULL, Bulwark Mods  
 Lose: None
@@ -550,6 +566,7 @@ Lose: None
 ```
 
 ### LL12
+{: .no_toc }  
 Respec: IPS-N Nelson 1 -> HA Saladin 1  
 Gain: HA Saladin 2, Universal Compatibility, Nuclear Cavalier 3, +1 HULL, Flash Anchor  
 Lose: Bulwark Mods   
