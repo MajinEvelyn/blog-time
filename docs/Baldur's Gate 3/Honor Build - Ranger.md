@@ -1,8 +1,4 @@
----
-title: Ranger
-parent: Baldur's Gate 3
-layout: default
----
+
 # BG3 Honor Build: The Ranger
 
 Author: Majin Evelyn
