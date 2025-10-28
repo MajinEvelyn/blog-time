@@ -1,9 +1,4 @@
----
-title: Druid
-parent: Baldur's Gate 3
-layout: default
 
----
 
 # BG3 Honor Build - Druid - Circle of the Land
 Author: Majin Evelyn
