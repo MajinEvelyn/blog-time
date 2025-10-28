@@ -2,7 +2,6 @@
 title: Ranger
 parent: Baldur's Gate 3
 layout: default
-nav_order: 
 ---
 # BG3 Honor Build: The Ranger
 
