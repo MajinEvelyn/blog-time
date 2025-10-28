@@ -2,7 +2,6 @@
 title: Warlock
 layout: default
 parent: Baldur's Gate 3
-nav_order: 
 
 ---
 # Honor Build: Warlock: The Fiend
