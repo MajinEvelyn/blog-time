@@ -1,9 +1,3 @@
----
-title: Wizard
-parent: Baldur's Gate 3
-layout: default
-
----
 
 # BG3 Honor Build: The Wizard
 
