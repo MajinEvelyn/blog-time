@@ -1,8 +1,4 @@
----
-title: Monk
-parent: Baldur's Gate 3
-layout: default
----
+
 # BG3 Honor Build: The Way of the Open Hand Monk
 Author: Majin Evelyn
 
