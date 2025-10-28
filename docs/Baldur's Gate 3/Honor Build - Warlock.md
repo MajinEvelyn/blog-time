@@ -1,9 +1,4 @@
----
-title: Warlock
-layout: default
-parent: Baldur's Gate 3
 
----
 # Honor Build: Warlock: The Fiend
 Author: Majin Evelyn
 
