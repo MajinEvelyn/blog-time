@@ -1,9 +1,4 @@
----
-title: Cleric
-parent: Baldur's Gate 3
-layout: default
 
----
 # BG3 Honor Build - Cleric - Light Domain
 Author: Majin Evelyn
 
