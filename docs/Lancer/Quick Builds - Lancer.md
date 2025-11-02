@@ -2582,6 +2582,7 @@ If your team has movement support, Grease Monkey 2 instead of Vanguard 1 Prospec
 If you have any questions about these builds, feel free to ping me (majinevelyn) on the Hearth-7 discord! 
 
 Now for something a little sillier. If you read through many or all of these builds, you may have noticed some patterns in build choices. As both a joke and self-roast, I've compiled a spreadsheet to show just how common those patterns are. Enjoy!
-![slop spreadsheet](/img/slop_spreadsheet.png)
 
-https://docs.google.com/spreadsheets/d/1u7u3zZ9pqJo_yXxmqRrRikRHJBgyqJ1zd-wrHVEBQsM/edit?usp=sharing
+![slop spreadsheet](/img/slop spreadsheet.png)
+
+[Slop Spreadsheet](https://docs.google.com/spreadsheets/d/1u7u3zZ9pqJo_yXxmqRrRikRHJBgyqJ1zd-wrHVEBQsM/edit?usp=sharing)
