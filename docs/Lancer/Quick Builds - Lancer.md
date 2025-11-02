@@ -7,9 +7,7 @@ layout: default
 ---
 # Quick Builds - Lancer
 {: .no_toc }  
-
-Author: Majin Evelyn
-
+Author: Majin Evelyn   
 <details open markdown="block">
   <summary>
     Table of contents
@@ -17,6 +15,7 @@ Author: Majin Evelyn
   {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ## Introduction
 Ever wanted to jump into a new frame, but not sure how? In this article you'll find a straightforward jumping off point for every frame in the game at LL3 and LL6. Each LL6 build is designed to be able to be achieved by the LL3 build through the default Reallocating Points rules in the Core Rulebook at each level up. 
