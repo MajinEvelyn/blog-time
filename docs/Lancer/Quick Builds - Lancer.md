@@ -2228,8 +2228,6 @@ Between your Core Active, Core Passive, and Emergency Repair Module with Reactiv
 ```
 While Iskander does have Mine traits, this build won't use them. Your Blink Charges will be much better used as Warp Grenades, which can be thrown up to range 15 because of Assault Launcher. Aside from taking advantage of this, you have some standard straightforward tools to accompany your good stats: Skirmishing HMG, H0R_OS I invades, Turret Drones, and Impaler Nailgun. 
 
-At higher levels, Iskander can make even more use of its high Save Target, but this
-
 #### Kutuzov
 {: .no_toc }  
 ```
