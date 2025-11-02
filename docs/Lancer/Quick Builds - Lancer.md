@@ -769,6 +769,8 @@ Vlad Shreds when it Immobilizes, and Vanguard 3 and Heavy Gunner 3 can easily ap
 ```
 The complexity in this build comes from tracking Xiaoli's Ingenuity charges and using them to damage enemies with terrain. Otherwise, your plan is simple and effective - get in, Barrage with your TCB, and Overwatch anyone that approaches with your DSAS. 
 
+Look here for shep's much more detailed TCB Zheng guide, [Snow on the Sand](https://majinevelyn.com/docs/Lancer/TCB%20Zheng.html).  
+
 ### SSC
 #### Amber Phantom
 {: .no_toc }  
