@@ -934,25 +934,24 @@ A bulky generalist, this Black Witch moves its team and supports them with Turre
 ```
 -- SSC Death’s Head @ LL6 --
 [ LICENSES ]
-  SSC Death’s Head 2, HA Barbarossa 3, HA Sunzi 1
+  IPS-N Drake 3, SSC Death’s Head 2, HA Sunzi 1
 [ CORE BONUSES ]
-  Overpower Caliber, Superior by Design
+  Overpower Caliber, Reinforced Frame
 [ TALENTS ]
-  Vanguard 3, Nuclear Cavalier 3, Siege Specialist 2, Prospector 1
+  Technophile 3, Black Thumb 2, Nuclear Cavalier 2, Siege Specialist 2
 [ STATS ]
-  HULL:6 AGI:0 SYS:0 ENGI:2
-  STRUCTURE:4 HP:25 ARMOR:0
-  STRESS:4 HEATCAP:10 REPAIR:5
+  HULL:4 AGI:2 SYS:0 ENGI:2
+  STRUCTURE:4 HP:26 ARMOR:0
+  STRESS:4 HEATCAP:8 REPAIR:4
   TECH ATK:0 LIMITED:+1
-  SPD:5 EVA:10 EDEF:8 SENSE:20 SAVE:13
+  SPD:6 EVA:12 EDEF:8 SENSE:20 SAVE:13
 [ WEAPONS ]
-  Integrated: Fuel Rod Gun
   MAIN/AUX MOUNT: SUPERHEAVY WEAPON BRACING
-  HEAVY MOUNT: Siege Cannon // Overpower Caliber
+  HEAVY MOUNT: Leviathan Heavy Assault Cannon // Overpower Caliber
 [ SYSTEMS ]
-  Armament Redundancy, Personalizations, Core Siphon, Type-3 Projected Shield, Blink Charges x4
+  Enlightenment-Class NHP, Armament Redundancy, Personalizations, Accelerate, Core Siphon, Blink Charges x4
 ```
-This build does one thing well - shoot its biggest weapon one time. Once you get Siege Cannon, Vanguard 3 Fuel Rod Gun will help you manage some of the Heat it generates.   
+This build does one thing well - shoot its biggest weapon one time.    
 
 #### Dusk Wing
 {: .no_toc }  
