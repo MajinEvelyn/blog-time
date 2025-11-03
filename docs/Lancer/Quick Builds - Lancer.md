@@ -914,11 +914,11 @@ A bulky generalist, this Black Witch moves its team and supports them with Turre
 ```
 -- SSC Death’s Head @ LL3 --
 [ LICENSES ]
-  SSC Death’s Head 2, IPS-N Tortuga 1
+  SSC Death’s Head 2, HORUS Goblin 1
 [ CORE BONUSES ]
   Auto-Stabilizing Hardpoints
 [ TALENTS ]
-  Vanguard 3, Skirmisher 2, Prospector 1
+  Technophile 3, Siege Specialist 2, Drone Commander 1
 [ STATS ]
   HULL:3 AGI:0 SYS:0 ENGI:2
   STRUCTURE:4 HP:18 ARMOR:0
@@ -926,10 +926,10 @@ A bulky generalist, this Black Witch moves its team and supports them with Turre
   TECH ATK:0 LIMITED:+1
   SPD:5 EVA:10 EDEF:8 SENSE:20 SAVE:12
 [ WEAPONS ]
-  MAIN/AUX MOUNT: Deck-Sweeper Automatic Shotgun / Pistol
+  MAIN/AUX MOUNT: Vulture DMR / Nexus (Light)
   HEAVY MOUNT: Heavy Machine Gun // Auto-Stabilizing Hardpoints
 [ SYSTEMS ]
-  Armament Redundancy, Personalizations, Core Siphon, Turret Drones x4, Rapid Burst Jump Jet System
+  Enlightenment-Class NHP, Personalizations, H0R_OS System Upgrade I, Core Siphon, Turret Drones x4, High-Stress Mag Clamps 
 ```
 ```
 -- SSC Death’s Head @ LL6 --
@@ -951,7 +951,7 @@ A bulky generalist, this Black Witch moves its team and supports them with Turre
 [ SYSTEMS ]
   Enlightenment-Class NHP, Armament Redundancy, Personalizations, Accelerate, Core Siphon, Blink Charges x4
 ```
-This build does one thing well - shoot its biggest weapon one time.    
+Death's Head is very good at shooting a ranged weapon, but it also happens to have 20 sensors, the highest in the game. Until we can get access to the highly damaging LHAC at LL6, we'll make use of those high sensors with H0R_OS I invades in conjunction with HMG Skirmishes. Technophile 3 + Blackthumb 2 will keep you Heat neutral while shooting the LHAC. Siege Specialist 2 still triggers upon firing the LHAC, giving you a little extra movement while Slowed.      
 
 #### Dusk Wing
 {: .no_toc }  
